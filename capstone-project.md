@@ -1,4 +1,4 @@
-# Capstone Project
+# Capstone project
 
 1. Define a project proposal \(3 weeks\)
    1. Outcomes

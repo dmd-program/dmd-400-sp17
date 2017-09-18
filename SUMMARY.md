@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Projects](projects.md)
-  * [Capstone Project](capstone-project.md)
+  * [Capstone project](capstone-project.md)
 * [Exhibition](public-online-exhibition.md)
 
