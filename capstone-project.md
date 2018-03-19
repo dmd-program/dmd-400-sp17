@@ -22,15 +22,3 @@ The capstone project is where you get to show off what you can do, both intellec
 4. Deliver a final presentation and contribution for student exhibition of work.
 
 
-## Assessment:
-
-**This course is pass/fail.**
-
-The language is this assessment description is direct, but not meant to scare. The capstone project is a serious endeavor and has an appropriate level of consequences. DMD 300 is designed to prepare students to have success in this course and to meet the expectations of mastery and excellence. However, it is up the student to "show up."
-
-To pass the course, students must meet the capstone requirements. Students must **repeat** the course if:
-
-- Student fails to produce an adequate project proposal by the deadline.
-- Student does not check-in with mentors by deadlines
-- Student does not deliver all properly formatted project deliverables
-- Student faces unfortunate and unavoidable life crisis. While this is regrettable, the student must participate in the online exhibition to pass the course requirements. Students will not be allowed to participate if they do not complete the project deliverables and meet the deadlines. 
