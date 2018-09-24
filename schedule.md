@@ -6,7 +6,7 @@ todo:
 2. Capstone requirements
 3. Exhibition design/development
 4. Assessment criteria
-5. Lead faculty involvement
+5. Lead faculty course eval
 ---
 
 1. Work Statement
