@@ -5,4 +5,5 @@
   * [Capstone project](capstone-project.md)
 * [Exhibition](public-online-exhibition.md)
 * [Assessment](assessment.md)
+* [Schedule](schedule.md)
 
