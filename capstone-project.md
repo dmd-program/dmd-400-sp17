@@ -10,15 +10,17 @@ In this capstone project, you get to show off what you can do, both intellectual
    5. Identify a production process and timeline
    6. Identify faculty or industry mentor
    7. If a group project, what roles and workload must be defined.
-2. 3 Check-ins with mentor
+2. Two Check-ins with mentor
    1. Notes or takeaways from meeting with mentor
    2. Student facilitates meeting by being prepared to show progress and have questions for mentor.
-3. Project deliverables
+3. Three check-ins with instructor
+   1. Student completes a minimum of three check-ins over the course of the semester.
+4. Project deliverables
    1. Project should either be based on a clearly defined career intention or a well defined concept and theme. Expressive projects must be well articulated in the project statement.
    2. 500 Word Minimum Statement
    3. Fully functional digital artifacts 
    4. PDF Documentation complies with presentation guidelines
-4. Deliver a final presentation and contribution for student exhibition of work.
+5. Deliver a final presentation and contribution for student exhibition of work.
 
 ## Types
 
@@ -72,9 +74,3 @@ In this capstone project, you get to show off what you can do, both intellectual
   * Physical computing and IoT device
   * Art or design installation proposal
   * Organize design-based event
-
-
-
-
-
-
