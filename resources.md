@@ -41,6 +41,10 @@
   * [https://www.artofvfx.com/](https://www.artofvfx.com/)
   * [http://vfxmagazine.com/](http://vfxmagazine.com/)
   * [https://www.siggraph.org/](https://www.siggraph.org/)
+  * [https://www.cartoonbrew.com/](https://www.cartoonbrew.com/)
+* Industrial design
+  * [core77](https://www.core77.com/)
+* web and mobile
 
 
 
