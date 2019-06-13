@@ -2,6 +2,10 @@
 
 In this capstone project, you get to show off what you can do, both intellectually, and technically. You will produce either an individual project or a group project with one of your DMD student peers. A capstone project is comprised of a project type, media, and methods. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
 
+## Expectations
+
+Each project should demonstrate a minimum of entry-level skills for their chosen field.
+
 1. Define a project proposal \(3 weeks\)
    1. Outcomes
    2. Context and impact
@@ -22,14 +26,20 @@ In this capstone project, you get to show off what you can do, both intellectual
    4. PDF Documentation complies with presentation guidelines
 5. Deliver a final presentation and contribution for student exhibition of work.
 
+## Context
+
+Who are notable people, companies or institutions for your chosen project field?
+
 ## Types
 
-* Client Brief
+* Client-based project
   * This project is based on fulfilling stakeholder needs and requirements.
-* Experimental
-  * This category refers to creative projects that feature
+* Experimental art or design
+  * This category refers to creative projects that feature aesthetic explorations often based on new or existing theory. 
 * Story-driven
-  * Story driven projects comprise of fictional or non-fictional stories told through narrative media. These stories can be either new or reimagined existing stories.
+  * Story driven projects comprise of fictional or non-fictional stories told through digital narrative media. These stories can be either new or reimagined existing stories.
+* Research and analysis
+  * Projects
 
 ## Media
 

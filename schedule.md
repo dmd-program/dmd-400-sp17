@@ -14,8 +14,8 @@ todo:
 3. Professional development requirements
    * Digital Portfolio
 4. Meet with lead faculty
-5. Capstone project check-in 1
-6. Capstone project check-in 2
+5. Capstone project progress report 1
+6. Capstone project progress report 2
 7. Final Project presentation
    * Does this meet exhibition quality requirements?
 8. Work prep and Upload for online work Exhibition 
