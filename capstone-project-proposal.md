@@ -6,6 +6,8 @@ Capstone projects must be able to be completed within the duration of the capsto
 
 Please read the publication entitled _[Demystifying "Design Research"](https://www.semanticscholar.org/paper/DEMYSTIFYING-%E2%80%9C-DESIGN-RESEARCH-%E2%80%9D-%3A-DESIGN-IS-NOT-%2C-Faste-Faste/69615f9130a93c129fa2f3acbb8ff2f145b49660)_ by Trygve and Haakon Faste. [Download PDF](/assets/Faste.pdf).
 
+
+
 ## Capstone project proposal survey:
 
 ### Part 1: Defining Creative Interests and Abilities
@@ -22,6 +24,7 @@ Please read the publication entitled _[Demystifying "Design Research"](https://w
 ### Part 2: Scope of work
 
 1. Methods, workflows, and projected outcomes
+2. Include [radar chart](https://www.google.com/search?q=radar+chart&oq=radar+chart&aqs=chrome..69i57.1342j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Preparing the proposal
 
