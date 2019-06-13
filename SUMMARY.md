@@ -8,4 +8,5 @@
   * [Capstone project proposal](capstone-project-proposal.md)
 * [Exhibition](public-online-exhibition.md)
 * [Assessment](assessment.md)
+* [Resources](resources.md)
 
