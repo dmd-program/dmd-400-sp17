@@ -27,7 +27,7 @@ todo:
     4. materials design
     5. Exhibition statement writing 
 
-## Weeks
+## Weekly breakdown
  
 - Week 1
   - Read introduction to course

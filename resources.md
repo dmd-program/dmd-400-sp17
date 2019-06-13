@@ -2,7 +2,9 @@
 
 Books, websites, organization, and other resources to help you build your knowledge across specializations.
  
-* Comics and graphic novels
+* Comics, concept art, and graphic novels
+  * https://www.youtube.com/channel/UClM2LuQ1q5WEc23462tQzBg
+  * https://www.youtube.com/watch?v=gI62rHNtg2w
   * [http://cartoons.osu.edu/](http://cartoons.osu.edu/)
   * [http://comics.lib.msu.edu/](http://comics.lib.msu.edu/)
   * [https://library.duke.edu/rubenstein/findingaids/murrayzine/\#collectionoverview](https://library.duke.edu/rubenstein/findingaids/murrayzine/#collectionoverview)
