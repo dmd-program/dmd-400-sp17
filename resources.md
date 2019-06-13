@@ -1,5 +1,7 @@
 # Resources
 
+Books, websites, organization, and other resources to help you build your knowledge across specializations.
+ 
 * Comics and graphic novels
   * [http://cartoons.osu.edu/](http://cartoons.osu.edu/)
   * [http://comics.lib.msu.edu/](http://comics.lib.msu.edu/)
