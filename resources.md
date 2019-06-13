@@ -36,8 +36,11 @@
   * [The Theory and Practice of Motion Design](/h ttps://www-taylorfrancis-com.ezaccess.libraries.psu.edu/books/9781351034548)
   * [https://www.filmsite.org/animatedfilms.html](https://www.filmsite.org/animatedfilms.html)
   * [https://www.loc.gov/collections/origins-of-american-animation/about-this-collection/](https://www.loc.gov/collections/origins-of-american-animation/about-this-collection/)
-
-
+* 3D animation and VFX
+  * [https://cgsociety.org/](https://cgsociety.org/)
+  * [https://www.artofvfx.com/](https://www.artofvfx.com/)
+  * [http://vfxmagazine.com/](http://vfxmagazine.com/)
+  * [https://www.siggraph.org/](https://www.siggraph.org/)
 
 
 
