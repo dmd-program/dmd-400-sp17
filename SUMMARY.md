@@ -4,8 +4,8 @@
 * [Course objectives](course-objectives.md)
 * [Schedule](schedule.md)
 * [Projects](projects.md)
-  * [Capstone project](capstone-project.md)
-  * Capstone Project Proposal
+  * [Capstone project overview](capstone-project.md)
+  * [Capstone project proposal](capstone-project-proposal.md)
 * [Exhibition](public-online-exhibition.md)
 * [Assessment](assessment.md)
 
