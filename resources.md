@@ -1,11 +1,6 @@
 # Resources
 
 * Comics and graphic novels
-  * [https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287](https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287)
-  * [https://shop.3dtotal.com/art-fundamentals?](https://shop.3dtotal.com/art-fundamentals?)
-  * [https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719/](https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719/)
-  * [https://www.amazon.com/Anatomy-Artist-Sarah-Simblet/dp/078948045X/](https://www.amazon.com/Anatomy-Artist-Sarah-Simblet/dp/078948045X/)
-  * [https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961)
   * [http://cartoons.osu.edu/](http://cartoons.osu.edu/)
   * [http://comics.lib.msu.edu/](http://comics.lib.msu.edu/)
   * [https://library.duke.edu/rubenstein/findingaids/murrayzine/\#collectionoverview](https://library.duke.edu/rubenstein/findingaids/murrayzine/#collectionoverview)
@@ -50,6 +45,12 @@
   * [core77](https://www.core77.com/)
 * web and mobile
 * Theory
+  * Drawing and rendering
+    * [https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287](https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287)
+    * [https://shop.3dtotal.com/art-fundamentals?](https://shop.3dtotal.com/art-fundamentals?)
+    * [https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719/](https://www.amazon.com/Color-Light-Realist-Painter-Gurney/dp/0740797719/)
+    * [https://www.amazon.com/Anatomy-Artist-Sarah-Simblet/dp/078948045X/](https://www.amazon.com/Anatomy-Artist-Sarah-Simblet/dp/078948045X/)
+    * [https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961)
   * Color
     * all media: [https://www.youtube.com/watch?v=26pSU2UHznU](https://www.youtube.com/watch?v=26pSU2UHznU)
     * 3d: [https://www.youtube.com/watch?v=Qj1FK8n7WgY](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
