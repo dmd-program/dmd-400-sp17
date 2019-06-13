@@ -19,19 +19,19 @@ Please read the publication entitled _[Demystifying "Design Research"](https://w
      * If **yes**: Then produce a hands-on project 
      * If **no**: choose another project type, or complete a **_hands-off_** research or design project as described in  _Demystifying "Design Research"_.
 
-### Part 2: Scope of design research
+### Part 2: Scope of work
 
-
-2. Of these pr
+1. Methods, workflows, and projected outcomes
 
 ### Preparing the proposal
 
-The proposal will consist of two main deliverables. 
+The proposal will consist of four main deliverables. 
 
 1. A PDF document
 2. A recorded zoom video presentation.
-3. Project agreement
-4. Exhibition sign-off
 
+### After the proposal has been reviewed, you will need to complete the following:
 
+1. Project agreement
+2. Online exhibition participation sign-off
 
