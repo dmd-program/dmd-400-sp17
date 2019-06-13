@@ -10,7 +10,9 @@ Please read the publication entitled _[Demystifying "Design Research"](https://w
 
 ### Part 1: Establishing Creative Interests
 
-1. What are you interested in?
+1. What are you interested in? From the overview, choose the following:
+  - Project type
+  - Media
 2. What can you do well?
    * Do you have prior experience and mastery of the subject?
      * If **yes**: Then produce a hands-on project 

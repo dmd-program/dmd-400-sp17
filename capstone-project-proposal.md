@@ -1,13 +1,37 @@
-# Proposal
+# Capstone Project Proposal
 
-| **Title** |  |
-| :--- | :--- |
-| **Type** |  |
-| Description |  |
-| Team Size |  |
-| Requirements |  |
-| Requisite background |  |
-| Notes |  |
+Capstone projects must be able to be completed within the duration of the capstone experience. In order to successfully complete the capstone project, a good understanding of media, production workflows, and project scope will be needed.
+
+## What is design research?
+
+Please read the publication entitled _[Demystifying "Design Research"](https://www.semanticscholar.org/paper/DEMYSTIFYING-%E2%80%9C-DESIGN-RESEARCH-%E2%80%9D-%3A-DESIGN-IS-NOT-%2C-Faste-Faste/69615f9130a93c129fa2f3acbb8ff2f145b49660)_ by Trygve and Haakon Faste. [Download PDF](/assets/Faste.pdf).
+
+## Capstone project proposal survey:
+
+### Part 1: Defining Creative Interests and Abilities
+
+1. What are you interested in? From the overview, choose the following:
+  - Project type
+  - Media
+2. What types of projects have you fully completed in the past?
+3. What will you create from start to finish?
+   * Do you have prior experience and mastery of the subject?
+     * If **yes**: Then produce a hands-on project 
+     * If **no**: choose another project type, or complete a **_hands-off_** research or design project as described in  _Demystifying "Design Research"_.
+
+### Part 2: Scope of design research
+
+
+2. Of these pr
+
+### Preparing the proposal
+
+The proposal will consist of two main deliverables. 
+
+1. A PDF document
+2. A recorded zoom video presentation.
+3. Project agreement
+4. Exhibition sign-off
 
 
 
