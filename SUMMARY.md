@@ -7,4 +7,5 @@
   * Capstone Project Proposal
 * [Exhibition](public-online-exhibition.md)
 * [Assessment](assessment.md)
+* [Course objectives](course-objectives.md)
 
