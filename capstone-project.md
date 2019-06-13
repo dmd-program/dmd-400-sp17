@@ -28,7 +28,9 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 
 ## Context
 
-Who are notable people, companies or institutions for your chosen project field?
+1. Who are notable people, companies or institutions for your chosen project field?
+2. What are the historical and contemporary issues related to the field?
+
 
 ## Types
 
