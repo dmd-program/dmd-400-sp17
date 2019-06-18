@@ -13,5 +13,5 @@
   * [Capstone project review 2](capstone-project-review-2.md)
   * [Capstone project exhibition](capstone-project-exhibition.md)
   * [Capstone project document](capstone-project-document.md)
-* Capstone project statement
+* [Capstone project statement](capstone-project-statement.md)
 
