@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Instructor](instructor.md)
 * [Course objectives](course-objectives.md)
 * [Schedule](schedule.md)
 * [Exhibition](public-online-exhibition.md)

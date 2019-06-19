@@ -3,7 +3,7 @@
 In this project review, you will:
 
 1. Submit a progress report presentation to Canvas
-2. Schedule time with instructor to discuss: [https://calendly.com/msc227/office-hours](https://calendly.com/msc227/office-hours)
+2. Schedule time with instructor to discuss: 
 
 ## Progress report presentation requirements
 
@@ -13,8 +13,10 @@ In this project review, you will:
 
 ## Grading Rubric
 
-This assignment is pass fail. In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 120-150 hours of work including work unrelated to capstone project production.
+This assignment is pass/fail.
 
+Passing: In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 120-150 hours of work including work unrelated to capstone project production.
 
+Failing: A failing mark
 
 
