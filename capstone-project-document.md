@@ -2,20 +2,18 @@
 
 Develop a project document should be able to give readers a clear understanding of your project, from beginning to end. Documents should be created in Adobe InDesign where possible. Documents produced in MS Word are less preferred, but acceptable. Please include a title page, abstract, overview of conceptual development Documentation must be provided as a PDF document.
 
-
-
 ## Document structure:
 
 1. Cover page
 2. Title page
    1. Title of project
-   2. Subtitle \(type of media - eg. "An animated film"\)
+   2. Subtitle \(type of media - eg. "An animated film" or "Web Application"\)
    3. Name
-   4. Semester and year
+   4. Semester and year (ie. FALL 2019)
    5. "Undergraduate capstone project documentation"
-   6. Instructor
+   6. Instructor name ([see this page](/instructor.md))
 3. School information
-   1. The Pennsylvania State University World Campus
+   1. The Pennsylvania State University
    2. B.Des in Digital Multimedia Design
    3. 
 4. Abstract
@@ -23,9 +21,12 @@ Develop a project document should be able to give readers a clear understanding 
    1. Describe main issues, themes, and ideas explored during concept development
    2. Include relevant images, quotations, diagrams, figures, etc.
 6. Research
-   1. Describe the theory, history, issues, people, events, objects, and works of others informed and inspired the development of this project.
-   2. Use citations
+   2. Who are notable people, companies or institutions for your chosen project field?
+   3. What are the historical and contemporary issues related to the field?
+   4. What are some related projects, events, objects, works of art or design that inspired your capstone work?
+   4. Use citations
 7. Production
+   1. Production requirements will vary between projects. Outline your process here and include any images or documentation that might be helpful to communicate it.
 8. Conclusion
 9. Bibliography
    1. APA or MLA format is accepted.

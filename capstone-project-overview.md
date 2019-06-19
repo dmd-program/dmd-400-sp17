@@ -26,12 +26,6 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
    4. PDF Documentation complies with presentation guidelines
 5. Deliver a final presentation and contribution for student exhibition of work.
 
-## Context
-
-1. Who are notable people, companies or institutions for your chosen project field?
-2. What are the historical and contemporary issues related to the field?
-
-
 ## Types
 
 * Client-based project
