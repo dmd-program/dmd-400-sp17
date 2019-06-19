@@ -1,6 +1,6 @@
 # Capstone Project Proposal
 
-A capstone project proposal is the first step in producing a capstone project for Digital Multimedia Design degree program. In this step, youCapstone projects must be able to be completed within the duration of the capstone experience. In order to successfully complete the capstone project, a good understanding of media, production workflows, and project scope will be needed.
+A capstone project proposal is the first step in producing a capstone project for the Digital Multimedia Design degree program. A proposal is comprised of description of the media, processes, methods, types of research that will be conducted
 
 ## What is design research?
 
