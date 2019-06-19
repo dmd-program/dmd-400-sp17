@@ -10,7 +10,7 @@
 * [Capstone project](projects.md)
   * [Capstone project overview](capstone-project-overview.md)
   * [Capstone project proposal](capstone-project-proposal.md)
-  * Capstone project proof of concept
+  * [Capstone project proof of concept](capstone-project-proof-of-concept.md)
   * [Capstone project review 1](capstone-project-review-1.md)
   * [Capstone project review 2](capstone-project-review-2.md)
   * [Capstone project statement](capstone-project-statement.md)
