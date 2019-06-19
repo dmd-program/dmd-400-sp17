@@ -3,7 +3,10 @@
 **Name:** Michael Collins  
 **Title:** Assistant Professor of Art  
 **Email:** msc227@psu.edu  
-**Appointments:** Book a meeting: [https://calendly.com/msc227/office-hours](https://calendly.com/msc227/office-hours)  
+**Appointments:** Book a meeting: [https://calendly.com/msc227/office-hours](https://calendly.com/msc227/office-hours)
+
+Because of the online nature of the course, I meet with students virtually via Zoom. While I look forwards to seeing your face in the video call, you also have the option to keep your video disabled during the call.
+
 **Email greeting preferences:**  
 I'm fairly informal in email exchanges. Please greet me as Mike or Michael. You can also greet me as Prof. Collins or Mr. Collins if you prefer to keep formalities.
 
