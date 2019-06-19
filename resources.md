@@ -2,26 +2,8 @@
 
 Books, websites, organization, and other resources to help you build your knowledge across specializations.
  
-* Comics, concept art, and graphic novels
-  * https://www.youtube.com/channel/UClM2LuQ1q5WEc23462tQzBg
-  * https://www.youtube.com/watch?v=gI62rHNtg2w
-  * [http://cartoons.osu.edu/](http://cartoons.osu.edu/)
-  * [http://comics.lib.msu.edu/](http://comics.lib.msu.edu/)
-  * [https://library.duke.edu/rubenstein/findingaids/murrayzine/\#collectionoverview](https://library.duke.edu/rubenstein/findingaids/murrayzine/#collectionoverview)
-  * [http://www.indiana.edu/~liblilly/dbs/comic.shtml](http://www.indiana.edu/~liblilly/dbs/comic.shtml)
-  * [https://www.cartoonart.org/](https://www.cartoonart.org/)
-  * [https://www.societyillustrators.org/index.php?id=8560](https://www.societyillustrators.org/index.php?id=8560)
-  * [http://comicsresearch.org/CAC/cite.html](http://comicsresearch.org/CAC/cite.html)
-  * [http://homepages.rpi.edu/~bulloj/comxbib.html](http://homepages.rpi.edu/~bulloj/comxbib.html)
-  * [https://www.nytimes.com/topic/subject/graphic-novels?scp=1-spot&sq=graphic%2520novels&st=cse](https://www.nytimes.com/topic/subject/graphic-novels?scp=1-spot&sq=graphic novels&st=cse)
-  * [https://www.lambiek.net/comiclopedia.html](https://www.lambiek.net/comiclopedia.html)
-  * [https://www.graphicnovelreporter.com/](https://www.graphicnovelreporter.com/)
-  * [http://comics212.net/](http://comics212.net/)
-  * [http://www.toonopedia.com/](http://www.toonopedia.com/)
-  * [http://scottmccloud.com/](http://scottmccloud.com/)
-  * [https://www.liveabout.com/anime-manga-4688188](https://www.liveabout.com/anime-manga-4688188)
-  * [https://comicsworthreading.com/category/manga/](https://comicsworthreading.com/category/manga/)
-  * [https://www.animemangastudies.com/](https://www.animemangastudies.com/) 
+* Web/app development
+  * https://free-for.dev/
 * Graphic design
   * [http://www.designersandbooks.com/](http://www.designersandbooks.com/)
   * [http://www.designhistory.org/index.html](http://www.designhistory.org/index.html)
@@ -47,7 +29,26 @@ Books, websites, organization, and other resources to help you build your knowle
   * [https://greyscalegorilla.com/tutorials/\#all](https://greyscalegorilla.com/tutorials/#all)
 * Industrial design
   * [core77](https://www.core77.com/)
-* web and mobile
+* Comics, concept art, and graphic novels
+  * https://www.youtube.com/channel/UClM2LuQ1q5WEc23462tQzBg
+  * https://www.youtube.com/watch?v=gI62rHNtg2w
+  * [http://cartoons.osu.edu/](http://cartoons.osu.edu/)
+  * [http://comics.lib.msu.edu/](http://comics.lib.msu.edu/)
+  * [https://library.duke.edu/rubenstein/findingaids/murrayzine/\#collectionoverview](https://library.duke.edu/rubenstein/findingaids/murrayzine/#collectionoverview)
+  * [http://www.indiana.edu/~liblilly/dbs/comic.shtml](http://www.indiana.edu/~liblilly/dbs/comic.shtml)
+  * [https://www.cartoonart.org/](https://www.cartoonart.org/)
+  * [https://www.societyillustrators.org/index.php?id=8560](https://www.societyillustrators.org/index.php?id=8560)
+  * [http://comicsresearch.org/CAC/cite.html](http://comicsresearch.org/CAC/cite.html)
+  * [http://homepages.rpi.edu/~bulloj/comxbib.html](http://homepages.rpi.edu/~bulloj/comxbib.html)
+  * [https://www.nytimes.com/topic/subject/graphic-novels?scp=1-spot&sq=graphic%2520novels&st=cse](https://www.nytimes.com/topic/subject/graphic-novels?scp=1-spot&sq=graphic novels&st=cse)
+  * [https://www.lambiek.net/comiclopedia.html](https://www.lambiek.net/comiclopedia.html)
+  * [https://www.graphicnovelreporter.com/](https://www.graphicnovelreporter.com/)
+  * [http://comics212.net/](http://comics212.net/)
+  * [http://www.toonopedia.com/](http://www.toonopedia.com/)
+  * [http://scottmccloud.com/](http://scottmccloud.com/)
+  * [https://www.liveabout.com/anime-manga-4688188](https://www.liveabout.com/anime-manga-4688188)
+  * [https://comicsworthreading.com/category/manga/](https://comicsworthreading.com/category/manga/)
+  * [https://www.animemangastudies.com/](https://www.animemangastudies.com/)
 * Theory
   * Drawing and rendering
     * [https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287](https://www.amazon.com/Creative-Illustration-Andrew-Loomis/dp/1845769287)
