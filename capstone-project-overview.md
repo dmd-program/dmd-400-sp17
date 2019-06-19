@@ -1,6 +1,6 @@
 # Capstone project
 
-In this capstone project, you get to show off what you can do, both intellectually, and technically. You will produce either an individual project or a group project with one of your DMD student peers. A capstone project is comprised of a project type, media, and methods. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
+A capstone project is where you get to prove the competencies and capabilities you've learned throughout your studies. This is an individual project, though you can enlist the help of a peer DMD student who may have complimentary skills to help bring your project to fruition. The capstone project includes a major research component, and participation in the online capstone project design exhibition. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
 
 ## Expectations
 
