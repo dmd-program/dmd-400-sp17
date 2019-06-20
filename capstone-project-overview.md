@@ -42,7 +42,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 * **Animation \(2D, 3D\)**
   * Short film
   * Explainer animation
-  * motion graphics \(bumper animations, commercials, 
+  * motion graphics \(bumper animations, commercials, titles)
   * Experimental
   * VJ Loops
   * Projection Mapping
