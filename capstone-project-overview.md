@@ -1,6 +1,6 @@
 # Capstone project
 
-A capstone project is where you get to prove the competencies and capabilities you've learned throughout your studies. This is an individual project, though you can enlist the help of peer DMD students who may have complimentary skills to help bring your project to fruition. The capstone project includes a major research component, and participation in the online capstone project design exhibition. Capstone projects must be able to be completed within the duration of the capstone experience. In order to successfully complete the capstone project, a good understanding of media, production workflows, and project scope will be needed. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
+A capstone project is where you get to prove the competencies and capabilities you've acquired throughout your studies. This is an individual project, though you can enlist the help of peer DMD students who may have complimentary skills to help bring your project to fruition. The capstone project includes a major research component, and participation in the online capstone project design exhibition. Capstone projects must be able to be completed within the duration of the capstone experience. In order to successfully complete the capstone project, a good understanding of media, production workflows, and project scope will be needed. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
 
 ## Expectations
 
@@ -42,7 +42,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 * **Animation \(2D, 3D\)**
   * Short film
   * Explainer animation
-  * motion graphics \(bumper animations, commercials, titles)
+  * motion graphics \(bumper animations, commercials, titles\)
   * Experimental
   * VJ Loops
   * Projection Mapping
@@ -80,3 +80,6 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
   * Physical computing and IoT device
   * Art or design installation proposal
   * Organize design-based event
+
+
+
