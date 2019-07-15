@@ -17,5 +17,8 @@
   * [6. Capstone project statement](capstone-project-statement.md)
   * [7. Capstone project document](capstone-project-document.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
-* [Time-based Media](time-based-media.md)
+* Project production requirements
+  * [Time-based Media](time-based-media.md)
+
+
 
