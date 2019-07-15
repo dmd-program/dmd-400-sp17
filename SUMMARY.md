@@ -19,6 +19,10 @@
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
 * Project production requirements
   * [Time-based Media](time-based-media.md)
+  * [Web design and development](web-design-and-development.md)
+  * [Digital fabrication](digital-fabrication.md)
+  * Digital illustration
+  * [User experience design](user-experience-design.md)
 
 
 
