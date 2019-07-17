@@ -1,4 +1,4 @@
-# Time-based media
+# Animation
 
 Examples include 2D or 3D animations, motion graphics, traditional or VR  and game-based films. Time-based media must include the following in the production process:
 
