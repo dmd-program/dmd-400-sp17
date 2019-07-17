@@ -16,7 +16,7 @@
 * Architectural renderings
 * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
 * Data visualizations
-* 3D Modelling
+* 3D assets for game including character design and environment design
 
 ## Production requirements
 

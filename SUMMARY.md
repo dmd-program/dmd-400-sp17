@@ -20,10 +20,9 @@
 * [Project production requirements](project-production-requirements.md)
   * [Animation](animation.md)
   * [Interactive](interactive.md)
-  * [Digital fabrication](digital-fabrication.md)
+  * [Product or service](product-or-service.md)
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)
   * [Audio/Video](audiovideo.md)
   * [Installation art or physical design intervention](installation-art-or-physical-design-intervention.md)
-  * [Product or service](product-or-service.md)
 
