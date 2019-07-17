@@ -21,6 +21,6 @@
   * [Time-based Media](time-based-media.md)
   * [Web design and development](web-design-and-development.md)
   * [Digital fabrication](digital-fabrication.md)
-  * Digital illustration
+  * [Digital illustration](digital-illustration.md)
   * [User experience design](user-experience-design.md)
 
