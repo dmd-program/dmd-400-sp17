@@ -2,6 +2,12 @@
 
 Locate a client, company, event, organization, etc.
 
+## Example projects
+
+1. **Design** a novel app or service design.
+2. **Redesign** app or service based on user research.
+3. **Speculative design** project where you situation your UX within a fictitious, plausible scenario.
+
 ## Production requirements
 
 A UX project can and should include some or all of the following:
@@ -15,17 +21,12 @@ A UX project can and should include some or all of the following:
 * Optional
   * Branding and logo assets
 
-## Example projects
-
-1. **Design** a novel app or service design.
-2. **Redesign** app or service based on user research.
-3. **Speculative design** project where you situation your UX within a fictitious, plausible scenario.
-
 ## Learning resources
 
 * [Lynda.com](https://www.lynda.com/learning-paths/Design/become-a-user-experience-designer)
+* [Design Kit Methods](http://www.designkit.org/methods)
 * [IDEO Method Cards](https://www.ideo.com/post/method-cards)
-* [Universal Design Methods](https://www.amazon.com/gp/product/B007WRCRH8)
+* Book: [Universal Design Methods](https://www.amazon.com/gp/product/B007WRCRH8)
 
 
 

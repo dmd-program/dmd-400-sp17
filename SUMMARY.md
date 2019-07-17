@@ -22,5 +22,5 @@
   * [Web design and development](web-design-and-development.md)
   * [Digital fabrication](digital-fabrication.md)
   * [Digital illustration](digital-illustration.md)
-  * [User experience design](user-experience-design.md)
+  * [User Experience Design](user-experience-design.md)
 
