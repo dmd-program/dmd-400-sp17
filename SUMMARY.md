@@ -18,7 +18,7 @@
   * [7. Capstone project document](capstone-project-document.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
 * [Project production requirements](project-production-requirements.md)
-  * [Time-based Media](time-based-media.md)
+  * [Animation](animation.md)
   * [Web design and development](web-design-and-development.md)
   * [Digital fabrication](digital-fabrication.md)
   * [Digital illustration](digital-illustration.md)
