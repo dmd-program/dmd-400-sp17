@@ -19,7 +19,7 @@
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
 * [Project production requirements](project-production-requirements.md)
   * [Animation](animation.md)
-  * [Web design and development](web-design-and-development.md)
+  * [Interactive](interactive.md)
   * [Digital fabrication](digital-fabrication.md)
   * [Digital illustration](digital-illustration.md)
   * [User Experience Design](user-experience-design.md)
