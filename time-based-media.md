@@ -8,12 +8,12 @@ Examples include 2D or 3D animations, motion graphics, traditional or VR  and ga
    2. Techniques
 2. **Script**
    1. Tools
-      1. Scrivener
-      2. Final Draft
+      1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+      2. [Final Draft](https://www.finaldraft.com/)
    2. Techniques
 3. **Concept art** **\(project dependent\)**
    1. Tools
-      1. Photoshop or similar
+      1. Adobe Photoshop or similar
    2. Techniques
 
 
