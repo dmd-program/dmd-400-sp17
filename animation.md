@@ -8,26 +8,41 @@ Examples include 2D or 3D animations, motion graphics, traditional or VR  and ga
 
 * Short film
 * Explainer animation
-* motion graphics \(bumper animations, commercials, titles\)
+* Motion graphics \(bumper animations, commercials, titles\)
 * Experimental
-* VJ Loops
-* Projection Mapping
+* VJ loops
+* Projection mapping
 
 ## Production requirements
 
 1. **Storyboard**
    1. Tools:
-      1. Storyboarder: [https://wonderunit.com/storyboarder/](https://legacy.gitbook.com/book/dmd-program/dmd-400-sp17/edit#)
+      - Storyboarder: [https://wonderunit.com/storyboarder/](https://legacy.gitbook.com/book/dmd-program/dmd-400-sp17/edit#)
    2. Techniques
 2. **Script**
    1. Tools
-      1. [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-      2. [Final Draft](https://www.finaldraft.com/)
+      - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+      - [Final Draft](https://www.finaldraft.com/)
    2. Techniques
 3. **Concept art** **\(project dependent\)**
    1. Tools
-      1. Adobe Photoshop or similar
+      - Adobe Photoshop or similar
    2. Techniques
+      - Character design
+      - Environment design
+4. Mood boards
+5. Animatic
+6. Look development
+7. Render, lighting, animation, and simulation tests as needed
+
+## Proof of concept
+
+The goal of an animation proof is to demonstrate that you can operate the necessary software and show that you can a strong grasp of animation principles.
+
+* **Traditional keyframe animation:** Demonstrate knowledge of keyframe animation and 12 principles by creating a few seconds of animation using a character or other content from your proposal concept. ToonBoom is the industry standard animation package, but others are acceptable.
+* **Motion design:** Create a few seconds of rendered animation using a 2D animation package like Adobe AfterEffects or 3D software such as Cinema 4D, Blender, Maya, or similar. You can also achieve motion design for the web using Adobe Animate CC.
+* **Short film:** Create an example animatic \(blocked animation\), animated character rig, or other animated asset relevant to your short film concept.
+
 
 ## Learning resources
 
