@@ -55,7 +55,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
   * Functional mobile or web app
   * High fidelity interactive mockups \(UI\)
   * Speculative or discursive design projects
-  * Comprehensive user Experience \(UX\) Research
+  * Comprehensive user experience \(UX\) research
   * Digital fabrication products or prototypes \(furniture, wearables, clothes, structures, etc.\) 
 * **2D or 3D Illustration, rendering, and graphic visualizations**
   * Branding and/or print

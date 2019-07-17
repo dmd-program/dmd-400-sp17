@@ -16,5 +16,11 @@ Examples include 2D or 3D animations, motion graphics, traditional or VR  and ga
       1. Adobe Photoshop or similar
    2. Techniques
 
+## Example projects
+
+## Production requirements
+
+## Learning resources
+
 
 
