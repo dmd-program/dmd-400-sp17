@@ -1,15 +1,17 @@
 # User experience \(UX\) design
 
-Locate a client, company, event, organization, etc. 
+Locate a client, company, event, organization, etc.
 
-## Process can include the following:
+## Production requirements
+
+A UX project can and should include some or all of the following:
 
 * Scenarios and personas
 * Charts, diagrams, and concept maps
 * Interviews
 * Themes and insights
 * Prototyping
-* Other design thinking and design research methods
+* Other design thinking and design research methods that inform the design
 * Optional
   * Branding and logo assets
 
