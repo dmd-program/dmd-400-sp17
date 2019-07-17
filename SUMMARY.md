@@ -21,6 +21,6 @@
   * [Animation](animation.md)
   * [Interactive](interactive.md)
   * [Digital fabrication](digital-fabrication.md)
-  * [Digital illustration](digital-illustration.md)
+  * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)
 
