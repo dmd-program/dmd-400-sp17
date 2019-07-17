@@ -4,13 +4,6 @@ A proof of concept is a small demonstration of a skill or capability that is ind
 
 The proof itself depends on the type of project and media being used. However, there are standard ways of showing competency in a given craft.
 
-## Animation
-
-The goal of an animation proof is to demonstrate that you can operate the necessary software and show that you can a strong grasp of animation principles.
-
-* **Traditional keyframe animation:** Demonstrate knowledge of keyframe animation and 12 principles by creating a few seconds of animation using a character or other content from your proposal concept. ToonBoom is the industry standard animation package, but others are acceptable.
-* **Motion design:** Create a few seconds of rendered animation using a 2D animation package like Adobe AfterEffects or 3D software such as Cinema 4D, Blender, Maya, or similar.
-* **Short film:** Create an example animatic \(blocked animation\), animated character rig, or other animated asset relevant to your short film concept.
 
 ## UX design and/or research
 
