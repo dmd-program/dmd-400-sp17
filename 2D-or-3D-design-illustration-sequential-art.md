@@ -4,6 +4,20 @@
 
 ## Example projects
 
+* Branding and/or print
+* Logo design
+* Web design and/or development
+* Stationary or merchandise design
+* Typeface design
+* Illustrations
+* Comic \(print or web\)
+* Children's book
+* Infographics
+* Architectural renderings
+* Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
+* Data visualizations
+* 3D Modelling
+
 ## Production requirements
 
 ## Learning resources
