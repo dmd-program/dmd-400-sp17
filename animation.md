@@ -4,11 +4,12 @@
 
 1. Short film 
 2. Explainer animation
-3. Motion graphics \(bumper animations, commercials, titles\) 4. Experimental
-5. VJ loops
-6. Projection mapping
-7. Web-based animation (HTML/CSS/Javascript)
-8. Production requirements
+3. Motion graphics \(bumper animations, commercials, titles\)
+4. Experimental animation
+5. Scientific or data-driven simulations and visualizations
+6. VJ loops for live performances
+7. Projection mapping
+8. Web-based animation (HTML/CSS/Javascript)
 
 **Note about animated short films:** Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation process and style that can be rapidly produced if you are working solo. You can outsource pre- or post-production tasks and focus on your core production interest.
 
