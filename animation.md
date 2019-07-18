@@ -1,28 +1,20 @@
 # Animation projects
 
-## Short film
+## Animated short film
 
-Short films can sometimes be completed by one person over the course of multiple years, or by a team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills.
+Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation style that can be rapidly produced if you are working solo.
 
 ### Production requirements
 
 These are common production requirements for most short films, and may include more or less depending on the project. They can also occur in a slightly different order, but in general, if these steps are followed, you are more likely to produce a successful short film.
 
-1. **Concept art** **\(project dependent\)**
-   1. Tools
-      - Adobe Photoshop or similar
-   2. Techniques
-      - Character design
-      - Environment design
-2. **Storyboard**
-   1. Tools:
-      - Storyboarder: [https://wonderunit.com/storyboarder/](https://legacy.gitbook.com/book/dmd-program/dmd-400-sp17/edit#)
-   2. Techniques
+1. **Concept art**
+   - [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
+2. **Storyboarding**
+   - Storyboarder App: [https://wonderunit.com/storyboarder/](https://legacy.gitbook.com/book/dmd-program/dmd-400-sp17/edit#)
 3. **Script**
-   1. Tools
-      - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-      - [Final Draft](https://www.finaldraft.com/)
-   2. Techniques
+   - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+   - [Final Draft](https://www.finaldraft.com/)
 4. **Mood boards**
 5. **Animatic and layout**
 6. **Sound recording**
@@ -35,7 +27,6 @@ These are common production requirements for most short films, and may include m
 ### Learning and production resources
 
 - [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
-- [Concept Art](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
 - [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
 - [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
 
