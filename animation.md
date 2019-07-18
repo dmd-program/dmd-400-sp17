@@ -52,8 +52,7 @@ The goal of an animation proof is to demonstrate that you can operate the necess
 
 1. **Traditional keyframe animation:** Demonstrate knowledge of keyframe animation and 12 principles by creating a few seconds of animation using a character or other content from your proposal concept. ToonBoom is the industry standard animation package, but others are acceptable.
 2. **Motion design:** Create a few seconds of rendered animation using a 2D animation package like Adobe AfterEffects or 3D software such as Cinema 4D, Blender, Maya, or similar. You can also achieve motion design for the web using Adobe Animate CC.
-3. **Other animations:** Create an example animatic \(blocked animation and sound\), animated character rig, or other animated asset relevant to your short film concept.
-4. A proof of concept for 
+3. **Other animations:** Create an example animatic \(blocked animation and sound\), animated character rig, or other animated asset relevant to your concept that demonstrates you can complete the core technical challenge of the project.
 
 
 
