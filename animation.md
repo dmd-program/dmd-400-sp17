@@ -31,9 +31,8 @@ Examples include 2D or 3D animations, motion graphics, traditional or VR  and ga
       - Character design
       - Environment design
 4. Mood boards
-5. Animatic
-6. Look development
-7. Render, lighting, animation, and simulation tests as needed
+5. Animatic and layout
+6. Render, lighting, animation, and simulation tests as needed
 
 ## Proof of concept
 
@@ -48,3 +47,5 @@ The goal of an animation proof is to demonstrate that you can operate the necess
 
 - [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
 - [Concept Art](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
+- [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
+- [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
