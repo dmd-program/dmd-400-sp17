@@ -20,7 +20,7 @@ The following are common production requirements for most types of animations, a
 1. **Concept art**
    * [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
 2. **Storyboarding**
-   * Storyboarder App: [Storyboarder](https://wonderunit.com/storyboarder/)
+   * [Storyboarder App](https://wonderunit.com/storyboarder/)
    * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
 3. **Script**
    * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
@@ -36,11 +36,11 @@ The following are common production requirements for most types of animations, a
 8. **Animation production**
    * Traditional animation
      * [ToonBoom](https://www.toonboom.com/)
-   * 3D animation
+   * 3D animation and simulation
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya)
    * Motion design
-     * AfterEffects, Houdini, MAXON 4D
+     * AfterEffects, [Houdini](https://www.sidefx.com/products/houdini/), MAXON 4D
 10. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
