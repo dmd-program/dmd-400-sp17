@@ -45,6 +45,10 @@ The following are common production requirements for most types of animations, a
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    [PremierePro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+11. Editing and compositing
+   * Compositing
+     * [Natron](https://natrongithub.github.io/)
+     * []()
 
 ### Proof of concept
 
