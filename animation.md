@@ -30,9 +30,9 @@ Examples include 2D or 3D animations, motion graphics, traditional or VR  and ga
    2. Techniques
       - Character design
       - Environment design
-4. Mood boards
-5. Animatic and layout
-6. Render, lighting, animation, and simulation tests as needed
+4. **Mood boards**
+5. **Animatic and layout**
+6. **Testing** renders, lighting, animation, and simulation as needed
 
 ## Proof of concept
 
