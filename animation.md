@@ -2,7 +2,7 @@
 
 ## Animated short film
 
-Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation style that can be rapidly produced if you are working solo.
+Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation process and style that can be rapidly produced if you are working solo.
 
 ### Production requirements
 
@@ -11,24 +11,21 @@ These are common production requirements for most short films, and may include m
 1. **Concept art**
    - [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
 2. **Storyboarding**
-   - Storyboarder App: [https://wonderunit.com/storyboarder/](https://legacy.gitbook.com/book/dmd-program/dmd-400-sp17/edit#)
+   - Storyboarder App: [Storyboarder](https://wonderunit.com/storyboarder/)
+   - [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
 3. **Script**
    - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
    - [Final Draft](https://www.finaldraft.com/)
 4. **Mood boards**
+   - [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
 5. **Animatic and layout**
+   - [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
 6. **Sound recording**
 7. **Testing** renders, lighting, animation, and simulation as needed
 8. **Rigging and animation production**
 9. **Rendering and compositing**
 10. **Scoring**
 11. **Editing**
-
-### Learning and production resources
-
-- [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
-- [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
-- [Animatic](https://www.lynda.com/Animation-tutorials/Animatics-layouts/466191/511830-4.html?org=psu.edu)
 
 ### Proof of concept
 
