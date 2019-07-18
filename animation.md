@@ -38,7 +38,7 @@ The following are common production requirements for most types of animations, a
      * [ToonBoom](https://www.toonboom.com/)
    * 3D animation and simulation
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
-     * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini/)
+     * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
    * Motion design
      * AfterEffects, MAXON 4D
 10. **Scoring**
