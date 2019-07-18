@@ -46,5 +46,5 @@ The goal of an animation proof is to demonstrate that you can operate the necess
 
 ## Learning resources
 
-
-
+- [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
+- [Concept Art](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
