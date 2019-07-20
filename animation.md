@@ -9,7 +9,7 @@
 5. Scientific or data-driven simulations and visualizations
 6. VJ loops for live performances
 7. Projection mapping
-8. Web-based animation (HTML/CSS/Javascript)
+8. Web-based animation \(HTML/CSS/Javascript\)
 
 **Note about animated short films:** Short films can often be one of the most compelling means of storytelling. They can sometimes be completed by one person over the course of multiple years, or by a skilled team in a few short months. It is unusual for a short film to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a short film, consider assembling a team with complimentary skills, or choose an animation process and style that can be rapidly produced if you are working solo. You can outsource pre- or post-production tasks and focus on your core production interest.
 
@@ -41,14 +41,20 @@ The following are common production requirements for most types of animations, a
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
    * Motion design
      * AfterEffects, MAXON 4D
-10. **Scoring**
+9. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
-   [PremierePro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-11. Editing and compositing
-   * Compositing
-     * [Natron](https://natrongithub.github.io/)
-     * []()
+     [PremierePro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+10. **Effects, Editing and compositing**
+    * Effects
+      * Adobe AfterEffects
+    * Non-linear Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
+      * Adobe Premiere Pro
+      * DaVinci Resolve
+    * Compositing
+      * [Natron](https://natrongithub.github.io/)
+      * [Nuke](https://www.foundry.com/products/nuke)
+      * [Blender compositing](https://www.youtube.com/watch?v=A0lvJXc19Kk)
 
 ### Proof of concept
 
