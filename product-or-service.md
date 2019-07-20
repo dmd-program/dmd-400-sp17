@@ -17,6 +17,8 @@
     * [Rhino3D](https://www.rhino3d.com/) (recommended)
     * [SolidWorks](https://www.solidworks.com/)(free access to PSU students)
     * [AutoCad](https://www.autodesk.com/products/autocad/overview) (free education license available)
+  * Non-CAD modelling
+    * Blender, Maya, C4D, Modo
   * Digital fabrication
     * 3D printing
     * Laser cutting
