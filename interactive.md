@@ -4,7 +4,7 @@
 
 * Augmented/Virtual Reality (AR/VR) games, visualizations, architecture, and journalism. 
 * Interactive 2D or 3D fiction or non-fiction story
-* [Serious games](https://en.wikipedia.org/wiki/Serious_game)
+* 2D or 3D [Serious games](https://en.wikipedia.org/wiki/Serious_game)
 * Physical game \(printed boards, cards, and/or 3D objects\)
 
 ## Example projects
