@@ -13,6 +13,10 @@
 * Primary and secondary research
 * Design thinking and ideation
 * Prototyping and production
+  * CAD
+    * [Rhino3D](https://www.rhino3d.com/) (recommended)
+    * [SolidWorks](https://www.solidworks.com/)(free access to PSU students)
+    * [AutoCad](https://www.autodesk.com/products/autocad/overview) (free education license available)
   * Digital fabrication
     * 3D printing
     * Laser cutting
