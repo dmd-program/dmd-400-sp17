@@ -1,11 +1,10 @@
-# Audio/Video
+# Video production
 
-## Example projects
+## Types of video production projects
 
-* Abstract or performance film
 * Short-film
 * Music video
-* Abstract performance capture
+* Performance capture
 
 ## Production requirements
 

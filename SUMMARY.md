@@ -23,6 +23,6 @@
   * [Product, service, UI/UX](product-or-service.md)
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)
-  * [Audio/Video](audiovideo.md)
+  * [Video production](audiovideo.md)
   * [Installation art or design intervention](installation-art-or-design-intervention.md)
 

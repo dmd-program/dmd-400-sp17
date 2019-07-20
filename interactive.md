@@ -26,6 +26,9 @@
     - [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
   - [Getting started with VR in Unity](https://learn.unity.com/tutorial/vr-best-practice) 
   - [Getting started with VR in UnrealEngine4](https://www.tomlooman.com/getting-started-with-vr/)
+- Motion capture
+  - [Kinect and Blender](https://www.youtube.com/watch?v=1UPZtS5LVvw)
+  
 ### Production requirements
 
 
