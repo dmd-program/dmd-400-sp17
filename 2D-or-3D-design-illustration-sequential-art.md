@@ -20,15 +20,16 @@ Whether creating work to tell your own story, or developing branding to communic
 ### Production requirements
 
 1. Research
-2. Initial design ideation
+2. Design ideation
+  - Generative processes including kit bashing, photo bashing, or other means.
   - Thumbnail sheets
   - Rendering process
     - Traditional drawing
     - Digital illustration
     - Digital design
     - Digital art
-3. Design iteration
-4. Packaging and presentation
+3. Design iteration and improvement
+4. Packaging and presentation. Any of the following may apply to the final project media:
   - Project website
   - Printing a physical book
   - Poster prints
