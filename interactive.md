@@ -14,6 +14,7 @@
     - [CG Masters](https://cgmasters.net/free-tutorials/creating-games-with-unity-and-blender/)
     - [Lynda.com listing](https://www.lynda.com/search?q=blender+unity)
 - Augmented Reality (AR)
+  - [AR with Unreal Engine](https://www.lynda.com/Software-Development-tutorials/AR-Unreal-Engine/647670/707639-4.html?org=psu.edu)
   - ARKit and Unity
     - [Lynda.com: Build a Drivable Car in Augmented Reality](https://www.lynda.com/Unity-3D-tutorials/ARKit-Unity-Build-Drivable-Car-Augmented-Reality/784294-2.html?org=psu.edu)
   - AR: XCode and UnrealEngine
@@ -43,6 +44,7 @@
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
 8. **Game production**
+   * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
    * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
    * [3D unity game](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html?org=psu.edu)
    * [Programming for games](https://www.lynda.com/Unity-3D-tutorials/Advanced-Unity-3D-Game-Programming/160270-2.html?org=psu.edu)
