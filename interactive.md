@@ -7,6 +7,8 @@
 * 2D or 3D [Serious games](https://en.wikipedia.org/wiki/Serious_game)
 * Physical game \(printed boards, cards, and/or 3D objects\)
 
+**Note about realtime interactive projects:** These projects are incredibly engaging and exciting means of communication. Depending on the scope of the project, they can be [produced in a few days on a train](https://trainjam.com/), or they can sometimes take multiple years by a skilled team in a few short months. It is unusual for an interactive project to be quickly created by only one person, as there are many production requirements that take time to produce. If you would like to create a a project like this, consider assembling a team with complimentary skills, or if working solo, choose a style and assets that afford rapid production. You can outsource pre- or post-production tasks and focus on your core production interest.
+
 ## Example projects
 
 - 3D Game

@@ -35,13 +35,15 @@ The following are common production requirements for most types of animations, a
 7. **Testing** renders, lighting, animation, and simulation as needed
 8. **Animation production**
    * Traditional animation
-     * [ToonBoom](https://www.toonboom.com/)
+     * [Lynda learning path](https://www.lynda.com/learning-paths/3D-Animation/become-a-2d-digital-animator)
+     * Tools: [ToonBoom](https://www.toonboom.com/)
    * 3D animation and simulation
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
      * [3D Realtime film](https://unity.com/solutions/film/real-time-filmmaking-explained)
    * Motion design
-     * [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
+     * [Lynda learning path](https://www.lynda.com/learning-paths/Video/become-a-motion-graphics-artist)
+     * Tools: [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 9. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
@@ -59,6 +61,7 @@ The following are common production requirements for most types of animations, a
    * Rendering from realtime
      * [Unity cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
      * [UnrealEngine sequencer](https://www.youtube.com/watch?v=7dVHhwGBCQQ)
+
 ### Proof of concept
 
 The goal of an animation proof is to demonstrate that you can operate the necessary software and show that you can a strong grasp of animation principles. Choose one of the following based on your project interests:
