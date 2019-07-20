@@ -1,5 +1,6 @@
 # Product, service, UI/UX
 
+
 ## Types of product or service projects
 
 * Functional mobile or web app
@@ -7,6 +8,9 @@
 * Speculative or discursive design projects
 * Comprehensive user experience \(UX\) research
 * Digital fabrication products or prototypes \(furniture, wearables, clothes, structures, etc.\) 
+
+**Note about design projects requiring fabrication equipment:** If you are interested in using PSU Main Campus fabrication equipment including laser cutters, 3D printers, CNC Routers, water-jet cutters, etc., you must coordinate a time to visit, complete requisite safety training in advance, and schedule time on required machines. Contact your professor for more information. It is often less expensive to pay for the object to be fabricated using an online service or local company rather than pay for travel and lodging.
+
 
 ### Production requirements
 
