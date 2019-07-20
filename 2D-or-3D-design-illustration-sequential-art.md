@@ -1,28 +1,41 @@
 # 2D and 3D design, illustration, and sequential art
 
+Whether creating work to tell your own story, or developing branding to communicate the 
 
-
-## Example projects
+## Types of 2D and 3D design projects
 
 * Branding and/or print
 * Logo design
-* Web design and/or development
 * Stationary or merchandise design
 * Typeface design
 * Illustrations
 * Comic \(print or web\)
-* Children's book
+* Digital children's book (for iPad or mobile device)
 * Infographics
 * Architectural renderings
 * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
 * Data visualizations
 * 3D assets for game including character design and environment design
 
-## Production requirements
+### Production requirements
 
-## Learning resources
+1. Research
+2. Initial design ideation
+  - Thumbnail sheets
+  - Rendering process
+    - Traditional drawing
+    - Digital illustration
+    - Digital design
+    - Digital art
+3. Design iteration
+4. Packaging and presentation
+  - Project website
+  - Printing a physical book
+  - Poster prints
+  - Formatting for digital device
 
-* [ZBrush](https://www.lynda.com/ZBrush-tutorials/ZBrush-2018-Essential-Training/441596-2.html?org=psu.edu)
+### Proof of concept
 
+A proof of concept should demonstrate drawing skills, ability to use the elements and principles of design, and proficiency with your software of choice. Showing process is important for the proof of concept, consider recording your screen, show ideas written on paper or journal, and your ability to approach a personal or client project critically and with an industry standard process.
 
 
