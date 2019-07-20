@@ -29,6 +29,8 @@
     * [3D printing](https://www.shapeways.com)
     * [Laser cutting](https://sendcutsend.com)
     * Advanced fabrication: Routing, turning, and milling, water-jet cutting (using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance)
+  * User Experience design
+    * [Lynda.com UX pathway](https://www.lynda.com/learning-paths/Design/become-a-user-experience-designer)
   * Web design and development
     * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA)
     * "App" tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [CodeSandbox.io](https://codesandbox.io/dashboard/recent)
