@@ -22,16 +22,29 @@
   - Fundamentals
     - [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
 
+### Production requirements
 
-## Production requirements
 
-1. Development
-   1. Tools:
-      1. VS Code
-      2. [https://codesandbox.io](https://codesandbox.io/)
-   2. Techniques
-2. Wireframes
-3. Prototype
+1. **Concept art**
+   * [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
+2. **Storyboarding**
+   * [Storyboarder App](https://wonderunit.com/storyboarder/)
+   * [Storyboarding for film and animation](https://www.youtube.com/watch?v=RQsvhq28sOI)
+3. **Script**
+   * [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+   * [Final Draft](https://www.finaldraft.com/)
+4. **Mood boards**
+   * [Creating mood boards](https://www.lynda.com/Design-Color-tutorials/Developing-Mood-Board/141129-2.html?org=psu.edu)
+5. **Sound recording**
+   * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
+   * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio/)
+9. **Scoring**
+   * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
+   * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
+   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+8. **Game production**
+   * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
+   * [3D unity game](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html?org=psu.edu)
+   * [Programming for games](https://www.lynda.com/Unity-3D-tutorials/Advanced-Unity-3D-Game-Programming/160270-2.html?org=psu.edu)
 
-## Learning resources
 
