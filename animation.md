@@ -39,13 +39,14 @@ The following are common production requirements for most types of animations, a
    * 3D animation and simulation
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
+     * [3D Realtime film](https://unity.com/solutions/film/real-time-filmmaking-explained)
    * Motion design
      * [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 9. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-10. **Effects, editing and compositing**
+10. **Effects, editing, compositing, rendering**
     * Effects
       * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu)
     * Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
@@ -55,7 +56,9 @@ The following are common production requirements for most types of animations, a
       * [Natron](https://natrongithub.github.io/)
       * [Nuke](https://www.foundry.com/products/nuke)
       * [Blender compositing](https://www.youtube.com/watch?v=A0lvJXc19Kk)
-
+   * Rendering from realtime
+     * [Unity and Maya Cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
+     * [UnrealEngine sequencer](https://www.youtube.com/watch?v=7dVHhwGBCQQ)
 ### Proof of concept
 
 The goal of an animation proof is to demonstrate that you can operate the necessary software and show that you can a strong grasp of animation principles. Choose one of the following based on your project interests:

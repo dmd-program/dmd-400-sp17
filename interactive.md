@@ -22,7 +22,7 @@
 - Virtual Reality (VR) 
   - Fundamentals
     - [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
-
+- 
 ### Production requirements
 
 
