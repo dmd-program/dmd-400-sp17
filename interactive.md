@@ -22,7 +22,8 @@
 - Virtual Reality (VR) 
   - Fundamentals
     - [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
-- 
+  - [Getting started with VR in Unity](https://learn.unity.com/tutorial/vr-best-practice) 
+  - [Getting started with VR in UnrealEngine4](https://www.tomlooman.com/getting-started-with-vr/)
 ### Production requirements
 
 
@@ -39,10 +40,11 @@
 5. **Sound recording**
    * [Sound foley](https://www.youtube.com/watch?v=U_tqB4IZvMk)
    * [Recording narration and actor dialogue](http://www.scarycow.com/lowbudgetaudio/)
-9. **Scoring**
+6. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+7. **Game asset production**
 8. **Game production**
    * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
    * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
