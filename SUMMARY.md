@@ -19,7 +19,7 @@
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
 * [Project production requirements](project-production-requirements.md)
   * [Animation](animation.md)
-  * [Interactive](interactive.md)
+  * [Realtime and interactive](interactive.md)
   * [Product or service](product-or-service.md)
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)

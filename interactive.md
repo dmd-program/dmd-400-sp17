@@ -5,7 +5,7 @@ Examples include website inter...
 ## Example projects
 
 * AR/VR
-* Interactive story
+* Interactive 2D or 3D story
 * Serious Game
 * Physical game \(printed boards and/or 3D objects\)
 
