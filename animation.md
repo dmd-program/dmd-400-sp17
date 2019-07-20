@@ -45,10 +45,10 @@ The following are common production requirements for most types of animations, a
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-10. **Effects, Editing and compositing**
+10. **Effects, editing and compositing**
     * Effects
       * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu)
-    * Non-linear Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
+    * Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
       * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
       * [DaVinci Resolve](https://www.lynda.com/DaVinci-Resolve-tutorials/Learning-DaVinci-Resolve-14/704152-2.html?org=psu.edu)
     * Compositing
