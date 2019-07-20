@@ -22,19 +22,19 @@
   * Non-CAD modelling
     * Blender, Autodesk Maya, Maxon C4D, Foundry Modo
   * Digital fabrication
-    * 3D printing
-    * Laser cutting
-    * CNC Routing and milling
+    * [3D printing](https://www.shapeways.com)
+    * [Laser cutting](https://sendcutsend.com)
+    * Advanced fabrication: Routing, turning, and milling, water-jet cutting (using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance)
   * Web design and development
-    * Tools: [VS Code](https://code.visualstudio.com/), [Github](http://github.com)
-    * 
+    * Website dev tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [Git Pages Tutorial 1](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), [Git Pages Tutorial 2](https://www.youtube.com/watch?v=SWVjQsvQocA)
+    * "App" tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [CodeSandbox.io](https://codesandbox.io/dashboard/recent)
+    * Everything list: [Extensive list of web tools and technology](https://free-for.dev/)
 3. Testing and analysis
   * User testing
   * Performance testing
 
 ### Proof of concept
 
-The goal of a proof is to demonstrate that you can operate the necessary software and show that you have a strong grasp of relevant production principles.
+The goal of a proof is to demonstrate that you have a strong grasp of relevant research, design, fabrication, and development principles.
 
-Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows.
-
+Produce a basic example of a project in your web technology or digital fabrication technology of choice that demonstrates you are capable of producing digital assets and code.
