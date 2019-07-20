@@ -20,7 +20,7 @@
 * [Project production requirements](project-production-requirements.md)
   * [Animation](animation.md)
   * [Realtime and interactive](interactive.md)
-  * [Product or service](product-or-service.md)
+  * [Product, service, UI/UX](product-or-service.md)
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)
   * [Audio/Video](audiovideo.md)
