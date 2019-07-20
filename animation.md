@@ -57,7 +57,7 @@ The following are common production requirements for most types of animations, a
       * [Nuke](https://www.foundry.com/products/nuke)
       * [Blender compositing](https://www.youtube.com/watch?v=A0lvJXc19Kk)
    * Rendering from realtime
-     * [Unity Cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
+     * [Unity cutscenes](https://www.youtube.com/watch?v=7SsqUb9FgW8)
      * [UnrealEngine sequencer](https://www.youtube.com/watch?v=7dVHhwGBCQQ)
 ### Proof of concept
 
