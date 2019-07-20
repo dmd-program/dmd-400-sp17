@@ -40,17 +40,17 @@ The following are common production requirements for most types of animations, a
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
    * Motion design
-     * AfterEffects, MAXON 4D
+     * [AfterEffects](https://www.adobe.com/products/aftereffects.html), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 9. **Scoring**
    * [Pro Tools](https://www.lynda.com/Pro-Tools-8-tutorials/film-scoring/52768-2.html?org=psu.edu)
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
-     [PremierePro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+   * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
 10. **Effects, Editing and compositing**
     * Effects
-      * Adobe AfterEffects
+      * [Adobe AfterEffects](https://www.lynda.com/After-Effects-tutorials/After-Effects-CC-2018-VFX-Essential-Training/648933-2.html?org=psu.edu)
     * Non-linear Editing \([NLE](https://en.wikipedia.org/wiki/Non-linear_editing_system)\)
-      * Adobe Premiere Pro
-      * DaVinci Resolve
+      * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
+      * [DaVinci Resolve](https://www.lynda.com/DaVinci-Resolve-tutorials/Learning-DaVinci-Resolve-14/704152-2.html?org=psu.edu)
     * Compositing
       * [Natron](https://natrongithub.github.io/)
       * [Nuke](https://www.foundry.com/products/nuke)
