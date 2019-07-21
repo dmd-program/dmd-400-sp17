@@ -21,16 +21,15 @@
     - [Lynda.com: Build a Drivable Car in Augmented Reality](https://www.lynda.com/Unity-3D-tutorials/ARKit-Unity-Build-Drivable-Car-Augmented-Reality/784294-2.html?org=psu.edu)
   - AR: XCode and UnrealEngine
     - [Lynda.com: https://www.lynda.com/Xcode-tutorials/Introduction-AR-Unreal-Xcode-Developers/667374-2.html?org=psu.edu](https://www.lynda.com/Xcode-tutorials/Introduction-AR-Unreal-Xcode-Developers/667374-2.html?org=psu.edu)
-- Virtual Reality (VR) 
+- Virtual Reality (VR)
   - Fundamentals
     - [Lynda.com: Mixed Reality Development Fundamentals](https://www.lynda.com/Azure-tutorials/Mixed-Reality-Development-Fundamentals/693098-2.html?org=psu.edu)
   - [Getting started with VR in Unity](https://learn.unity.com/tutorial/vr-best-practice) 
   - [Getting started with VR in UnrealEngine4](https://www.tomlooman.com/getting-started-with-vr/)
 - Motion capture
   - [Kinect and Blender](https://www.youtube.com/watch?v=1UPZtS5LVvw)
-  
-### Production requirements
 
+### Production requirements
 
 1. **Concept art**
    * [Concept art playlist on Youtube](https://www.youtube.com/playlist?list=PLMgH0Xj7qSJe6XXj--j_1QyJoztbbq45Z)
@@ -55,7 +54,6 @@
    * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
    * [3D unity game](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html?org=psu.edu)
    * [Programming for games](https://www.lynda.com/Unity-3D-tutorials/Advanced-Unity-3D-Game-Programming/160270-2.html?org=psu.edu)
-
 
 ### Proof of concept
 
