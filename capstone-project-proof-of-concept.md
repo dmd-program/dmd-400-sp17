@@ -20,7 +20,6 @@ The goal of a UX research proof is to demonstrate the you have the relevant UX d
 
 ## Video production
 
-* **Short film:** show your filming or editing abilities by creating a short vignette similar to : [https://vimeo.com/337054827](https://vimeo.com/337054827)
 
 
 

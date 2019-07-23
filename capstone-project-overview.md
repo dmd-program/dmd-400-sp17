@@ -28,6 +28,8 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 
 ## Types
 
+While project types may overlap, in general, they can be broken down into
+
 * Client-based project
   * This project is based on fulfilling stakeholder needs and requirements.
 * Experimental art or design
@@ -35,7 +37,6 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 * Story-driven
   * Story driven projects comprise of fictional or non-fictional stories told through digital narrative media. These stories can be either new or reimagined existing stories.
 * Research and analysis
-  * Projects
 
 ## Media
 
