@@ -1,7 +1,6 @@
 # Capstone project proposal survey
 
-## Part 1: Defining Creative Interests and Abilities
-
+Answer the following questions to help define the scope and direction of your capstone project.
 
 1. Identify a project focus. From the project types list, choose the following:
    * Project type
