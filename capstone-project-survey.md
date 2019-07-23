@@ -2,7 +2,8 @@
 
 ## Part 1: Defining Creative Interests and Abilities
 
-1. What are you interested in? From the overview, choose the following:
+
+1. Identify a project focus. From the project types list, choose the following:
    * Project type
    * Media
 2. What types of projects have you fully completed in the past?
