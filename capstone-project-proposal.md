@@ -22,7 +22,6 @@ The proposal will consist of four main deliverables.
 ---
 
 1. **Title page**
-
    1. Title
    2. Name
    3. Date
@@ -38,9 +37,9 @@ The proposal will consist of four main deliverables.
    * What Digital media is used?
    * What topics need to be researched?
    * Who is the audience for the work?
-4. **Production Scope**
+4. **Production scope**
    * What are the deliverables to be completed or produced? \(IE - storyboards, interviews, web application, website, wireframes, animatics, character designs, scripts, game executable, video, etc.\)
-5. **Production Pipeline**
+5. **Production pipeline**
    * What tools will be used?
    * What design processes and methods will be used?
    * Who will be involved \(list any collaborators, advisors, etc.\)?
