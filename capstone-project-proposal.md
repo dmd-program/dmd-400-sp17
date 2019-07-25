@@ -64,9 +64,10 @@ The proposal will consist of four main deliverables.
       * What research resources available to you?
 10. **Questions for your proposal reviewers**
     * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
-    
 
-## Rubric 
+## Grading rubric 
+
+
 
 1. Does the proposal include all specified sections?
 2. Are all sections thoughtfully considered and fully developed?
