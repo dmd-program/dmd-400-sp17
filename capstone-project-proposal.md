@@ -22,11 +22,11 @@ The proposal will consist of four main deliverables.
 ---
 
 1. **Title page**
-   1. Title
-   2. Name
-   3. Date
-   4. Course \("DMD 300: Digital Multimedia Design Studio"\)
-   5. Semester \(Example: "Spring 2019"\)
+   1. Project Title
+   2. "DMD Capstone Project Proposal"
+   3. Name
+   4. Date
+   5. "DMD 400: Digital Multimedia Design Capstone"
 2. **Bio**
    * Here you will list what you know, and what you are interested in. This should be related to the project concept. \(IE - if you are skilled and interested in web development, it would be confusing to then propose an animation project.\)
    * List existing digital media skills and other relevant skills.
