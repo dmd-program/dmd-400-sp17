@@ -2,19 +2,17 @@
 
 ## Example projects
 
-  * Physical computing and IoT device
-    * Arduino
   * Art or design installation proposal
-    * 
-  * Organize design-based event
+  * Organize design-based event or festival
 
 ## Production requirements
 
-1. Project goals
+1. Research: Evaluate previous events that were similar to this one
+2. Project goals
+2. Branding, website, other event infrastructure
 2. Budget
+3. Team members
+3. Stakeholders
+4. Event documentation and outcomes
 
-
-## Learning resources
-
-
-
+## Proof of concept

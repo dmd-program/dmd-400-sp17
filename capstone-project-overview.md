@@ -14,16 +14,12 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
    5. Identify a production process and timeline
    6. Identify faculty or industry mentor
    7. If a group project, what roles and workload must be defined.
-2. Two Check-ins with mentor
-   1. Notes or takeaways from meeting with mentor
-   2. Student facilitates meeting by being prepared to show progress and have questions for mentor.
-3. Three check-ins with instructor
-   1. Student completes a minimum of three check-ins over the course of the semester.
+2. Minimum of three (3) Check-ins with advisor, mentor, or client.
+   1. Notes or takeaways from meeting
+   2. Student facilitates meeting by being prepared to show progress, prepare questions ahead of time, and schedule meetings.
+3. Account for faculty reviewer feedback. Failure to consider reviewer feedback can result in a lower overall project grade, particularly if the project outcomes suffered as a result of ignoring advice or analysis.  
 4. Project deliverables
    1. Project should either be based on a clearly defined career intention or a well defined concept and theme. Expressive projects must be well articulated in the project statement.
-   2. 500 Word Minimum Statement
-   3. Fully functional digital artifacts 
-   4. PDF Documentation complies with presentation guidelines
 5. Deliver a final presentation and contribution for student exhibition of work.
 
 ## Types
