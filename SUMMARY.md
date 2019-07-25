@@ -16,7 +16,7 @@
   * [User Experience Design](user-experience-design.md)
   * [Video production](audiovideo.md)
   * [Art or design intervention](installation-art-or-design-intervention.md)
-* [Capstone project](projects.md)
+* Capstone project
   * [1. Capstone project overview](capstone-project-overview.md)
   * [2. Capstone project survey](capstone-project-survey.md)
   * [3. Capstone project proposal](capstone-project-proposal.md)
