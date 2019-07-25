@@ -18,4 +18,4 @@
 
 ## Proof of concept
 
-1. Budget, timeline, and exa
+1. Detailed description of event including quotes for materials, venue, etc.
