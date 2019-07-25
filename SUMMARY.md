@@ -15,7 +15,7 @@
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
   * [User Experience Design](user-experience-design.md)
   * [Video production](audiovideo.md)
-  * [Installation art or design intervention](installation-art-or-design-intervention.md)
+  * [Art or design intervention](installation-art-or-design-intervention.md)
 * [Capstone project](projects.md)
   * [1. Capstone project overview](capstone-project-overview.md)
   * [2. Capstone project survey](capstone-project-survey.md)

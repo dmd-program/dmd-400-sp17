@@ -1,6 +1,4 @@
-# Installation art or physical design intervention
-
-
+# Art or physical design intervention
 
 ## Example projects
 
