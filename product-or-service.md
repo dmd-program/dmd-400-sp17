@@ -37,6 +37,7 @@ There are a few ways to approach a project design project. To participate in a r
     * [3D printing](https://www.shapeways.com)
     * [Laser cutting](https://sendcutsend.com)
     * Advanced fabrication: Routing, turning, and milling, water-jet cutting (using fabrication equipment requires proximity to PSU Main Campus and coordination with facility operators in advance)
+    * Device programming: [Arduino](https://www.arduino.cc/)
   * User Experience design
     * [Lynda.com UX pathway](https://www.lynda.com/learning-paths/Design/become-a-user-experience-designer)
     * **Wireframe software:** Use Photoshop, Figma, or Sketch to design wireframes for
