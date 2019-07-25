@@ -9,10 +9,13 @@
 
 1. Research: Evaluate previous events that were similar to this one
 2. Project goals
-2. Branding, website, other event infrastructure
-2. Budget
-3. Team members
-3. Stakeholders
-4. Event documentation and outcomes
+3. Branding, website, other event infrastructure
+4. Budget
+5. Team members or volunteers if needed
+6. Stakeholders
+7. Production of printed or fabricated materials, props and other objects
+8. Event documentation and outcomes
 
 ## Proof of concept
+
+1. Budget, timeline, and exa
