@@ -21,9 +21,9 @@ The proposal will consist of four main deliverables.
 
 ---
 
-**Title slide**
+1. **Title page**
 
-1. 1. Title
+   1. Title
    2. Name
    3. Date
    4. Course \("DMD 300: Digital Multimedia Design Studio"\)
@@ -45,20 +45,18 @@ The proposal will consist of four main deliverables.
    * What design processes and methods will be used?
    * Who will be involved \(list any collaborators, advisors, etc.\)?
    * Will you use management tools to keep on track?
-6. **Required Capabilities**
-   * What capabilities and skills are required to complete the project?
-7. **Existing Capabilities**
-   * Show past work that demonstrates your existing capabilities as related to the project concept.
-8. **Needed Capabilities**
-   * List any items from the Required Capabilities slide that are not in your Existing Capabilities slide.
+6. **Capabilities**
+   * **Necessary capabilities:** Describe all capabilities and skills necessary to complete the project?
+     * **_Show_** and **_describe_** past work that demonstrates your existing capabilities as related to the project concept. Use figures and appendices where necessary.
+   * **Needed capabilities:** What required capabilities and skills do you not currently possess that are needed to complete the project.
    * Explain how you will you get up to speed in time.
-9. **Timeline**
+7. **Timeline**
    * List steps in the production timeline.
-10. **Research**
+8. **Research**
     * What areas of research do you intend to pursue during the production of this project?
     * What are your research resources?
-11. **Questions for your project reviewers**
-    * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “Is this a good project?” or “What should I do?”. Instead focus your questions on the specific areas of your project that could benefit from feedback. 
+9. **Questions for your project reviewers**
+    * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
 
 
 
