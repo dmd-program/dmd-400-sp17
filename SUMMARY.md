@@ -21,7 +21,7 @@
   * [2. Capstone project survey](capstone-project-survey.md)
   * [3. Capstone project proposal](capstone-project-proposal.md)
   * [4. Capstone project proof of concept](capstone-project-proof-of-concept.md)
-  * [5. Capstone project review 1](capstone-project-review-1.md)
+  * [5. Capstone project mid-semester](capstone-project-review-1.md)
   * [6. Capstone project statement](capstone-project-statement.md)
   * [7. Capstone project document](capstone-project-document.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)

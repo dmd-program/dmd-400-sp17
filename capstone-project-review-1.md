@@ -1,4 +1,4 @@
-# Capstone review 1
+# Capstone mid-semester review
 
 In this project review, you will:
 
@@ -15,8 +15,8 @@ In this project review, you will:
 
 This assignment is pass/fail.
 
-Passing: In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 120-150 hours of work including work unrelated to capstone project production.
+**Passing:** In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 120-150 hours of work including work unrelated to capstone project production.
 
-Failing: A failing mark
+**Failing:** A failing mark
 
 
