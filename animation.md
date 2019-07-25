@@ -5,7 +5,7 @@
 1. Short film 
 2. Explainer animation
 3. Motion graphics \(bumper animations, commercials, titles, user interface elements in 3D environments\)
-4. Experimental animation
+4. Experimental: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
 5. Scientific or data-driven simulations and visualizations
 6. VJ loops for live performances
 7. Projection mapping
