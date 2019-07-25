@@ -45,10 +45,13 @@ The proposal will consist of four main deliverables.
    * Who will be involved \(list any collaborators, advisors, etc.\)?
    * Will you use management tools to keep on track?
 6. **Capabilities**
-   * **Necessary capabilities:** Describe all capabilities and skills necessary to complete the project?
+   * **Necessary capabilities**
+     * Describe all capabilities and skills necessary to complete the project?
+   * **Existing capabilities and skills**
      * **_Show_** and **_describe_** past work that demonstrates your existing capabilities as related to the project concept. Use figures and appendices where necessary.
-   * **Needed capabilities:** What required capabilities and skills do you not currently possess that are needed to complete the project.
-   * Explain how you will you get up to speed in time.
+   * **Needed capabilities** 
+     * What required capabilities and skills do you not currently possess that are needed to complete the project.
+     * Explain how you will you get up to speed in time.
 7. **Timeline**
    * List steps in the production timeline.
 8. **Research**
@@ -61,5 +64,6 @@ The proposal will consist of four main deliverables.
 
 ## Rubric 
 
-1. Does the proposal include all sections?
+1. Does the proposal include all specified sections?
 2. Are all sections thoughtfully considered and fully developed?
+3. Is this proposal free from spelling and grammar errors?
