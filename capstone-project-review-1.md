@@ -1,4 +1,5 @@
-# Capstone mid-semester review
+# Capstone project progress reports
+
 
 In this project review, you will:
 
