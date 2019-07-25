@@ -4,7 +4,7 @@ All projects must have production workflows that account for the following:
 
 1. Research
 2. Ideation
-3. Fall within these categories
+3. Fall within one of the following categories:
   * Animation
   * Realtime and interactive
   * Product, service, UI/UX
