@@ -13,7 +13,6 @@
   * [Realtime and interactive](interactive.md)
   * [Product, service, UI/UX](product-or-service.md)
   * [2D and 3D design, illustration, and sequential art](2D-or-3D-design-illustration-sequential-art.md)
-  * [User Experience Design](user-experience-design.md)
   * [Video production](audiovideo.md)
   * [Art or design intervention](installation-art-or-design-intervention.md)
 * Capstone project

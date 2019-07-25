@@ -6,11 +6,11 @@ All projects must have production workflows that account for the following:
 2. Ideation
 3. Fall within these categories
   * Animation
-  * Interactive
+  * Realtime and interactive
+  * Product, service, UI/UX
   * 2D and 3D design, illustration, and sequential art
-  * User experience design
-  * Audio/Video
-  * Installation art or design intervention
+  * Video production
+  * Art or design intervention
 
 
 
