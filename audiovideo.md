@@ -8,7 +8,9 @@
 
 ## Production requirements
 
-Depending on the type of project, you may need more or fewer steps than what are listed here. For most projects, you will need access to high-end video and audio equipment.
+Depending on the type of project, you may need more or fewer steps than what are listed here.
+
+**Note:** For most projects, you will need access to high-end video and audio equipment.
 
 1. **Synopsis**
    * write a short synopsis of the video work.
