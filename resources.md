@@ -1,4 +1,4 @@
-# Resources
+# Resources and inspiration
 
 Books, websites, organization, and other resources to help you build your knowledge across specializations.
  
