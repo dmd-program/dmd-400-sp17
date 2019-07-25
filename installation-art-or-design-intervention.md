@@ -3,7 +3,7 @@
 ## Example projects
 
   * Art or design installation proposal
-  * Organize design-based event or festival
+  * Organize and hold a design-based event or festival
 
 ## Production requirements
 
