@@ -53,7 +53,7 @@ The proposal will consist of four main deliverables.
      * What required capabilities and skills do you not currently possess that are needed to complete the project.
      * Explain how you will you get up to speed in time.
 7. **Timeline**
-   * List steps in the production timeline.
+   * List all steps anticipated in the production of the project and assign them to a due date.
 8. **Research**
     * What areas of research do you intend to pursue during the production of this project?
       * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
