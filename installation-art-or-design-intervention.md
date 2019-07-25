@@ -14,6 +14,7 @@
 5. Team members or volunteers if needed
 6. Stakeholders
 7. Production of printed or fabricated materials, props and other objects
+9. Create a call for participation, event registration, or other invitations for event attendance.
 8. Event documentation and outcomes
 
 ## Proof of concept
