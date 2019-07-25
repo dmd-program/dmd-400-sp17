@@ -3,12 +3,12 @@
 ## Types of video production projects
 
 * Short-film
-* Experimental film exploration. [Examples on vimeo.com](https://vimeo.com/categories/experimental)
+* Experimental film: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
 * Documentary
 
 ## Production requirements
 
-Depending on the type of project, you may need more or fewer steps than what are listed here.
+Depending on the type of project, you may need more or fewer steps than what are listed here. For most projects, you will need access to high-end video and audio equipment.
 
 1. **Synopsis**
    * write a short synopsis of the video work.
@@ -39,12 +39,11 @@ Depending on the type of project, you may need more or fewer steps than what are
 
 ## Proof of concept
 
-* Demonstrate your filming or editing abilities by creating a short vignette
+Demonstrate your filming or editing abilities with one of the following:
 
-- Example of a vignette: [https://vimeo.com/337054827](https://vimeo.com/337054827)
-- Create a sample scene or interview
-- Video example for experimental
-
+- Vignette: [https://vimeo.com/337054827](https://vimeo.com/337054827)
+- Film a sample scene or interview
+- Video and audio example for an experimental project
 
 
 
