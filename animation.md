@@ -2,6 +2,8 @@
 
 ## Types of animation projects
 
+Animation projects can be fully 2D, 3D, or a combination of the two. 
+
 1. Short film 
 2. Explainer animation
 3. Motion graphics \(bumper animations, commercials, titles, user interface elements in 3D environments\)
@@ -36,7 +38,7 @@ The following are common production requirements for most types of animations, a
 8. **Animation production**
    * Traditional animation
      * [Lynda learning path](https://www.lynda.com/learning-paths/3D-Animation/become-a-2d-digital-animator)
-     * Tools: [ToonBoom](https://www.toonboom.com/)
+     * Tools: [ToonBoom](https://www.toonboom.com/), [Blender grease pencil](https://www.youtube.com/watch?v=pywbPQD9vYU)
    * 3D animation and simulation
      * [Animation pipeline](https://www.lynda.com/Blender-tutorials/Animation-Pipeline-Production/642458-2.html?org=psu.edu)
      * [Blender](https://www.blender.org/), [Autodesk Maya](https://www.autodesk.com/education/free-software/maya), [Houdini](https://www.sidefx.com/products/houdini-apprentice/)
