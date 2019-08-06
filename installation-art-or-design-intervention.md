@@ -3,7 +3,9 @@
 ## Example projects
 
   * Art or design installation proposal
+     * New Media art exhibition
   * Organize and hold a design-based event or festival
+  * Curation of an art or design exhibition
 
 ## Production requirements
 
