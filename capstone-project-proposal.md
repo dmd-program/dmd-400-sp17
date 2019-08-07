@@ -38,7 +38,7 @@ The proposal will consist of four main deliverables.
    * What topics need to be researched?
    * Who is the audience for the work?
 4. **Advising, mentorship, or client**
-   *  Name the project advisor, mentor, or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
+   * Name the project advisor, mentor, or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
    * Contact email address for advisor, mentor or client
    * Background or bio for advisor, mentor or client
 5. **Production scope**
@@ -52,23 +52,24 @@ The proposal will consist of four main deliverables.
    * **Necessary capabilities and skills**
      * Describe all capabilities and skills necessary to complete the project?
    * **Existing capabilities and skills**
-     * **_Show_** and **_describe_** past work that demonstrates your existing capabilities as related to the project concept. Use figures and appendices where necessary.
+     * _**Show**_ and _**describe**_ past work that demonstrates your existing capabilities as related to the project concept. Use figures and appendices where necessary.
    * **Needed capabilities and skills** 
      * What required capabilities and skills do you not currently possess that are needed to complete the project.
      * Explain how you will you get up to speed in time.
 8. **Timeline**
    * List all steps anticipated in the production of the project and assign them to a due date.
 9. **Research**
-    * What areas of research do you intend to pursue during the production of this project?
-      * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
-      * What research resources available to you?
+   * What areas of research do you intend to pursue during the production of this project?
+     * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
+     * What research resources available to you?
 10. **Questions for your proposal reviewers**
     * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
 
-## Grading rubric 
-
-
+## Grading rubric
 
 1. Does the proposal include all specified sections?
 2. Are all sections thoughtfully considered and fully developed?
 3. Is this proposal free from spelling and grammar errors?
+
+
+

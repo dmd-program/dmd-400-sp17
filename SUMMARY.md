@@ -19,6 +19,7 @@
   * [1. Capstone project overview](capstone-project-overview.md)
   * [2. Capstone project survey](capstone-project-survey.md)
   * [3. Capstone project proposal](capstone-project-proposal.md)
+  * [Capstone project agreement form](capstone-project-agreement-form.md)
   * [4. Capstone project proof of concept](capstone-project-proof-of-concept.md)
   * [5. Capstone project progress reports](capstone-project-review-1.md)
   * [6. Capstone project statement](capstone-project-statement.md)
