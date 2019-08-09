@@ -4,7 +4,7 @@ The capstone project proposal is the first step in producing a capstone project 
 
 ## Download
 
-Project Proposal template: MS Word Download
+Project Proposal template: [MS Word Download](/assets/dmd400-capstone-project-proposal.docx)
 
 ## Part 2: Scope of work
 
