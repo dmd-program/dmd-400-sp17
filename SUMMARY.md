@@ -8,7 +8,7 @@
 * [Assessment](assessment.md)
 * [Design research](design-research.md)
 * [Resources](resources.md)
-* [Project types](project-production-requirements.md)
+* [Project categories](project-production-requirements.md)
   * [Animation](animation.md)
   * [Realtime and interactive](interactive.md)
   * [Product, service, UI/UX](product-or-service.md)
