@@ -2,12 +2,12 @@
 
 Whether creating work to tell your own story, or developing branding to communicate the 
 
-## Types of 2D and 3D design projects
+## Project types
 
 * Branding and/or print
-* Design system or standards manual
-* Logo design
-* Stationary or merchandise design
+  * Design system or standards manual
+  * Logo design
+  * Stationary or merchandise design
 * Typeface design
 * Digitally created illustrations
 * Comic \(print or web\)

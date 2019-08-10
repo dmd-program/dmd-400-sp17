@@ -2,9 +2,18 @@
 
 A capstone project represents the culmination of your interests and skills developed throughout your studies. This is an individual project, though you can enlist the help of peer DMD students who may have complimentary skills to help bring your project to fruition. The capstone project includes a major research component, and participation in the online capstone project design exhibition. Capstone projects must be able to be completed within the duration of the capstone experience. In order to successfully complete the capstone project, a good understanding of media, production workflows, and project scope will be needed. You will produce documentation, meet deliverable and milestone deadlines, introduce relevant theory and analysis, and participate in the capstone project online exhibition.
 
-## Project Schedule
+## Project deliverables
 
-The capstone project is broken down into the following deliverables
+The capstone project is broken down into the following deliverable categories:
+
+1. [Project Survey](/capstone-project-survey.md)
+2. [Proposal](/capstone-project-proposal.md)
+3. [Agreement form](/capstone-project-agreement-form.md)
+4. [Proof of concept](/capstone-project-proof-of-concept.md)
+5. [Progress reports](/capstone-project-review-1.md)
+6. [Statement](/capstone-project-statement.md)
+7. [Project document](/capstone-project-document.md)
+8. [Capstone project exhibition](/capstone-project-exhibition.md)
 
 ## Project survey
 
@@ -22,7 +31,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
    5. Identify a production process and timeline
    6. Identify faculty or industry mentor
    7. If a group project, what roles and workload must be defined.
-2. Minimum of three \(3\) Check-ins with advisor, mentor, or client.
+2. Minimum of three (3) Check-ins with advisor, mentor, or client.
    1. Notes or takeaways from meeting
    2. Student facilitates meeting by being prepared to show progress, prepare questions ahead of time, and schedule meetings.
 3. Account for faculty reviewer feedback. Failure to consider reviewer feedback can result in a lower overall project grade, particularly if the project outcomes suffered as a result of ignoring advice or analysis.  
@@ -52,7 +61,7 @@ While project types may overlap, in general, they can be broken down into
   * VJ Loops
   * Projection Mapping
 * **Interactive**
-  * Augmented Reality \(AR\), Virtual Reality \(VR\), Mixed Reality \(MR\)
+  * AR/VR
   * Interactive story
   * Serious Game
   * Physical game \(printed boards and/or 3D objects\)
