@@ -8,6 +8,7 @@ In this project review, you will:
 
 ## Progress report presentation requirements
 
+1. Include a summary of any meetings you held with your project advisor.
 1. Overview of production progress
 2. Links to project materials hosted outside of Canvas. 
    1. Materials can include images, video, code snippets, links to web pages, blog posts, etc.

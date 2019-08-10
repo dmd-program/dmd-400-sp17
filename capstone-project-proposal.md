@@ -36,16 +36,16 @@ The proposal will consist of four main deliverables.
    * List existing digital media skills and other relevant skills.
    * List any skills you hope to obtain during this project.
 3. **Concept**
-   * Concise description of the project idea.
+   * Concise description of the project idea
    * What’s interesting about it and or what is new/novel?
    * What Digital media is used?
    * What topics need to be researched?
    * Who is the audience for the work?
 4. **Advisor**
-   * Project advisor name.
+   * Project advisor name
      * The advisor can be a mentor or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
    * Contact email address for advisor, mentor or client
-   * Background or bio for advisor, mentor or client
+   * Background or qualifications for advisor, mentor or client
 5. **Production scope**
    * What are the deliverables to be completed or produced? \(IE - storyboards, interviews, web application, website, wireframes, animatics, character designs, scripts, game executable, video, etc.\)
 6. **Production pipeline**
@@ -62,7 +62,7 @@ The proposal will consist of four main deliverables.
      * What required capabilities and skills do you not currently possess that are needed to complete the project.
      * Explain how you will you get up to speed in time.
 8. **Timeline**
-   * List all steps anticipated in the production of the project and assign them to a due date.
+   * List all steps anticipated in the production of the project and assign them to a due date. The timeline can be graphic in nature so long as it is readable.
 9. **Research**
    * What areas of research do you intend to pursue during the production of this project?
      * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
