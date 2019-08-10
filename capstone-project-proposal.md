@@ -41,8 +41,9 @@ The proposal will consist of four main deliverables.
    * What Digital media is used?
    * What topics need to be researched?
    * Who is the audience for the work?
-4. **Advising, mentorship, or client**
-   * Name the project advisor, mentor, or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
+4. **Advisor**
+   * Project advisor name.
+     * The advisor can be a mentor or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project.
    * Contact email address for advisor, mentor or client
    * Background or bio for advisor, mentor or client
 5. **Production scope**
