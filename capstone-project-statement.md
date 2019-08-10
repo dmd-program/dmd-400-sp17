@@ -6,9 +6,9 @@ The statement's use of language should seek a balance of accurate technical term
 
 ## Structure of the work statement
 
-Please write the statement using proper grammar, sentence structure, and with complete paragraphs. Do not copy and paste the following list of requirements into your statement. Instead, the statement should flow as a single description of your project. Please use the following as a guide:
+Please write the statement in essay form using proper grammar, sentence structure, and with complete paragraphs. Do not copy and paste the following list of requirements into your statement. Instead, the statement should flow as a single description of your project. Please use the following as a guide:
 
-1. Include your name, project title, and semester/year.
+1. Include your project title.
 2. In one sentence, explain what the project is and how it works.
    1. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
 3. Describe the type of media used in the project.
@@ -18,7 +18,7 @@ Please write the statement using proper grammar, sentence structure, and with co
 
 ### Submission details:
 
-1. Upload the work statement as an MS Word Document to Canvas as indicated deadlines.
+1. Did you write the statement in essay form? If so, upload the work statement as an MS Word Document to Canvas as indicated deadlines.
 
 
 
