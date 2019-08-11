@@ -8,7 +8,7 @@ All projects must have production workflows that account for the following:
    * Animation
    * Realtime and interactive
    * Product, service, UI/UX
-   * 2D and 3D design and illustration
+   * 2D / 3D design and illustration
    * Video production
    * Art or design intervention
 
