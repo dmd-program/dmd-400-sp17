@@ -1,24 +1,8 @@
 # Capstone Project Proposal
 
-The capstone project proposal is the first step in producing a capstone project for the Digital Multimedia Design degree program. It asks you to think through the entire production process of the upcoming project, and helps you identify what research you'll need to conduct. This proposal will be presented in the form a recoded Zoom
+The capstone project proposal is the first step in producing a capstone project for the Digital Multimedia Design degree program. It asks you to think through the entire production process of the upcoming project, and helps you identify what research you'll need to conduct.
 
-## Download
-
-Project Proposal template: [MS Word Download](/assets/dmd400-capstone-project-proposal.docx)
-
-## Preparing the proposal
-
-The proposal will consist of four main deliverables.
-
-1. A PDF document
-2. A recorded zoom video presentation.
-
-### After the proposal has been reviewed, you will need to complete the following:
-
-1. Project agreement
-2. Online exhibition participation sign-off
-
----
+The following must be included in the proposal: \(Download: [MS Word template](/assets/dmd400-capstone-project-proposal.docx)\)
 
 1. **Title page**
    1. Project Title
@@ -67,7 +51,10 @@ The proposal will consist of four main deliverables.
 
 ## Submission details
 
-1. Did you write the statement in essay form and is it at least 150 words? If so, upload the work statement as an MS Word Document to Canvas by the indicated deadline.
+1. The proposal will consist of two main deliverables.
+
+   1. A PDF exported document
+   2. A recorded zoom video presentation.
 
 ## Grading rubric
 
