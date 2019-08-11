@@ -6,14 +6,13 @@ A capstone project represents the culmination of your interests and skills devel
 
 The capstone project is broken down into the following deliverable categories. See each category for more information about deliverable requirements:
 
-1. [Project Survey](/capstone-project-survey.md)
-2. [Proposal](/capstone-project-proposal.md)
-3. [Agreement form](/capstone-project-agreement-form.md)
-4. [Proof of concept](/capstone-project-proof-of-concept.md)
-5. [Progress reports](/capstone-project-review-1.md)
-6. [Statement](/capstone-project-statement.md)
-7. [Project document](/capstone-project-document.md)
-8. [Capstone project exhibition](/capstone-project-exhibition.md)
+1. [Proposal](/capstone-project-proposal.md)
+2. [Agreement form](/capstone-project-agreement-form.md)
+3. [Proof of concept](/capstone-project-proof-of-concept.md)
+4. [Progress reports](/capstone-project-review-1.md)
+5. [Statement](/capstone-project-statement.md)
+6. [Project document](/capstone-project-document.md)
+7. [Capstone project exhibition](/capstone-project-exhibition.md)
 
 ## Expectations
 
@@ -27,7 +26,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
    5. Identify a production process and timeline
    6. Identify faculty or industry mentor
    7. If a group project, what roles and workload must be defined.
-2. Minimum of three (3) Check-ins with advisor, mentor, or client.
+2. Minimum of three \(3\) Check-ins with advisor, mentor, or client.
    1. Notes or takeaways from meeting
    2. Student facilitates meeting by being prepared to show progress, prepare questions ahead of time, and schedule meetings.
 3. Account for faculty reviewer feedback. Failure to consider reviewer feedback can result in a lower overall project grade, particularly if the project outcomes suffered as a result of ignoring advice or analysis.  
