@@ -9,16 +9,16 @@ The statement's use of language should seek a balance of accurate technical term
 Please write the statement in essay form using proper grammar, sentence structure, and with complete paragraphs. Do not copy and paste the following list of requirements into your statement. Instead, the statement should flow as a single description of your project. The final draft of this statement will be publicly viewable on the capstone exhibition website. The following points have been provided as a guide:
 
 1. Include your **project title.**
-2. In one sentence, **explain what the project is and how it works.**
-   1. "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
-3. **Describe the design project _type_.** Note: The focus of a design project is not to learn or use software, so please do not place emphasis on particular software (IE. "This project was made in Photoshop). Instead, reference one of the project types from the protect categories list.
+2. In one sentence, **explain what the project is.** This may include who it's for, or how it works.
+   1. **Example:** "This project is an online game for children that teaches players living in war-torn countries how to avoid landmines." 
+3. **Describe the design project **_**type**_**.** Note: The focus of a design project is not to learn or use software, so please do not place emphasis on particular software \(IE. "This project was made in Photoshop\). Instead, reference one of the project types from the protect categories list.
 4. **Describe the design challenge** \(the provocation, goal, or existing problem you hope to tackle\)
 5. **Describe the process** or how you approached solving for the design challenge
 6. Describe the **impact** the work might have, the **context** in which it sits, **why it's interesting**, etc.
 
 ### Submission details
 
-1. Did you write the statement in essay form and is it at least 150 words? If so, upload the work statement as an MS Word Document to Canvas as indicated deadlines.
+1. Did you write the statement in essay form and is it at least 150 words? If so, upload the work statement as an MS Word Document to Canvas by the indicated deadline.
 
 
 

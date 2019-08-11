@@ -23,6 +23,8 @@ A concept is a core idea \(or set of ideas\) that signify basic values, motivati
 3. Explore moral and ethical issues or quandaries
 4. Aesthetic and theoretical exploration
 
+Design thinking methods can help you identify a concept. However, more often than not, your everyday observations are enough to spark an idea for a concept. It is helpful to keep a small notebook with you, or store a running list of ideas on a mobile device.
+
 
 
 
