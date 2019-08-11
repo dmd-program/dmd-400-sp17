@@ -1,6 +1,6 @@
 # Concept development
 
-A concept is a core idea (or set of ideas) that signify basic values, motivations and practices inherent in a project. A project lacking strong concept development tends to be shallow and without regard for cultural and community contexts, which will become apparent during discussion and critique.
+A concept is a core idea (or set of ideas) that signify basic values, motivations and practices inherent in a project. A project lacking strong concept development tends to be shallow and without regard for cultural and community contexts, which will become apparent during discussion and critique. Projects based on a strong concept tend to be deemed
 
 ## Approaches
 
@@ -24,6 +24,7 @@ Some key features of a good concept in the context of this course:
 
 
 Identifying issues and problem spaces
+
 
 [Design thinking methods](/design-process-and-methods.md) and [Synectics](https://en.wikipedia.org/wiki/Synectics) can be used to generate new, relevant, and thought-provoking concepts rather quickly. A design process that you might use to realize an art or design project could also be used to generate the concept itself since the principles are effectively the same; emphasize quick prototyping, testing, analysis, and iteration.
 
