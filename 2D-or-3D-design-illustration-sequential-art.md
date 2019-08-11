@@ -8,13 +8,13 @@ Whether creating work to tell your own story, or developing branding to communic
   * Design system or standards manual
   * Logo design
   * Stationary or merchandise design
+* Posters and Infographics
 * Typeface design
-* Digitally created illustrations
-* Comic \(print or web\)
-* Digital children's book (for iPad or mobile device)
-* Infographics
+* Digital illustrations
+  * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
+  * Sequential comics \(print or web\)
+  * Digital children's book (for iPad or mobile device)
 * Architectural renderings
-* Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
 * Data visualizations
 * 2D or 3D assets for game including character design and environment design
 * Code-generated art

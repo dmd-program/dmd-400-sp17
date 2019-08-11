@@ -24,4 +24,5 @@
   * [6. Project statement](capstone-project-statement.md)
   * [7. Project document](capstone-project-document.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
+* [Concept development](concept-development.md)
 
