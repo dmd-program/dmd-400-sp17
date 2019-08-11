@@ -6,12 +6,7 @@ The capstone project proposal is the first step in producing a capstone project 
 
 Project Proposal template: [MS Word Download](/assets/dmd400-capstone-project-proposal.docx)
 
-## Part 2: Scope of work
-
-1. Methods, workflows, and projected outcomes
-2. Include [radar chart](https://www.google.com/search?q=radar+chart&oq=radar+chart&aqs=chrome..69i57.1342j0j7&sourceid=chrome&ie=UTF-8)
-
-### Preparing the proposal
+## Preparing the proposal
 
 The proposal will consist of four main deliverables.
 
@@ -69,6 +64,10 @@ The proposal will consist of four main deliverables.
      * What research resources available to you?
 10. **Questions for your proposal reviewers**
     * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
+
+## Submission details
+
+1. Did you write the statement in essay form and is it at least 150 words? If so, upload the work statement as an MS Word Document to Canvas by the indicated deadline.
 
 ## Grading rubric
 
