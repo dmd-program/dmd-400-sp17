@@ -11,12 +11,8 @@ Answer the following questions to help define the scope and direction of your ca
       * If **yes**: Then produce a hands-on project 
       * If **no**: choose another project type, or complete a _**hands-off**_ research or design project as described in  _Demystifying "Design Research"_.
 4. Project advisor
-  * The capstone project requires a capstone advisor. Who might you call upon to be your capstone project advisor?
-  * What makes them qualified to advise you on your project?
-  
-|  |  |
-| :--- | :--- |
-|  |  |
+   * The capstone project requires a capstone advisor. Who might you call upon to be your capstone project advisor?
+   * What makes them qualified to advise you on your project?
 
 
 
