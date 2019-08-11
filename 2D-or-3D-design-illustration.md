@@ -1,4 +1,4 @@
-# 2D and 3D design and illustration
+# 2D / 3D design and illustration
 
 Whether creating work to tell your own story, or developing branding to communicate the
 

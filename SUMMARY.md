@@ -21,7 +21,7 @@
   * [Animation](animation.md)
   * [Realtime and interactive](interactive.md)
   * [Product, service, UI/UX](product-or-service.md)
-  * [2D and 3D design and illustration](2D-or-3D-design-illustration-sequential-art.md)
+  * [2D / 3D design and illustration](2D-or-3D-design-illustration.md)
   * [Video production](audiovideo.md)
   * [Art or design intervention](installation-art-or-design-intervention.md)
 
