@@ -4,6 +4,6 @@ Exhibitions typically have a central theme — a conceptual thread that links th
 
 ## Submission details
 
-1. Submit the exhibition information form below:
+1. Submit the exhibition information form below (if the form is not visible, please contact your instructor):
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrK9itvDXkCShJg4?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2643" style="background: transparent; border: 1px solid #ccc;"></iframe>

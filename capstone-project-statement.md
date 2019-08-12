@@ -21,5 +21,11 @@ Please write the statement in essay form using proper grammar, sentence structur
 1. Did you write the statement in essay form and is it at least 150 words? If so, upload the work statement as an MS Word Document to Canvas by the indicated deadline.
 2. If you are submitting a second or final draft of the statement, please ensure that you've read the feedback located in the tracked changes including recommended changes as well as comments. Please confirm that changes have been either confirmed or rejected in second or final drafts. If you do not know how to use tracked changes, [please see this link](https://support.office.com/en-us/article/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
 
+## Grading Rubric
 
+This assignment is pass/fail.
+
+**Passing:** In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 100-130 hours of work.
+
+**Failing:** A failing mark indicates that you have not achieved confidence from the capstone course instructor that you will be able to complete the capstone project in the current pace of progress. If you have three failing progress reports, you will be asked to withdraw or drop from the capstone course. If you are unable to complete the project to the level indicated in your project proposal, your project will be assessed as incomplete, and you will have to retake the course.
 
