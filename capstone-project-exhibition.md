@@ -1,6 +1,6 @@
 ## Capstone project exhibition
 
-Exhibitions typically have a central theme — a conceptual thread that links the work together. Exhibition curators contextualize selected works which often ascribes new or additional meaning to the individual works as a result. The online exhibition's title will be chosen towards the end of the semester before the launch. DMD 400 online exhibitions are fully public and online. The fully public exhibition will be maintained on the DMD program website as an archive after the exhibition has ended.
+Exhibitions typically have a central theme — a conceptual thread that links the work together. Exhibition curators contextualize selected works which often ascribes new or additional meaning to the individual works as a result. The online exhibition's title will be chosen towards the end of the semester before the launch. DMD 400 online exhibitions are fully public and online. The public exhibition will be maintained on the DMD program website as an archive after the exhibition has ended.
 
 ## Submission details
 
