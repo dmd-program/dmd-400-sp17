@@ -12,7 +12,8 @@ The capstone project is broken down into the following deliverable categories. S
 4. [Progress reports](/capstone-project-review-1.md)
 5. [Statement](/capstone-project-statement.md)
 6. [Project document](/capstone-project-document.md)
-7. [Capstone project exhibition](/capstone-project-exhibition.md)
+7. [Project explainer video](/project-explainer-video.md)
+8. [Capstone project exhibition](/capstone-project-exhibition.md)
 
 ## Expectations
 
