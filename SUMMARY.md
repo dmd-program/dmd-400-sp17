@@ -16,6 +16,7 @@
   * [4. Project production reports](capstone-project-review-1.md)
   * [5. Project statement](capstone-project-statement.md)
   * [6. Project document](capstone-project-document.md)
+  * Project explainer video
   * [7. Capstone project exhibition](capstone-project-exhibition.md)
 * [Project categories](project-categories.md)
   * [Animation](animation.md)
