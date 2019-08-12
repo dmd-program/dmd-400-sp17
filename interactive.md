@@ -56,16 +56,19 @@
    * [GarageBand](https://www.lynda.com/GarageBand-tutorials/GarageBand-11-Essential-Training/84529-2.html?org=psu.edu)
    * [Ableton Live](https://www.ableton.com/en/)
    * [Premiere Pro](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-Guru-Audio-Workflow-Essential-Sound-Panel/758641-2.html?org=psu.edu)
-7. **Game asset production**
-8. **Game production**
+7. **Asset production**
+   * Game assets
+   * Props or devices
+8. **Game or interactive media production**
    * [Game production pipeline overview](https://www.researchgate.net/publication/267417785_Content_Creation_for_a_3D_Game_with_Maya_and_Unity_3D)
    * [2D unity game](https://www.lynda.com/Unity-tutorials/Learning-Unity-2D-Sprites/599611-2.html?org=psu.edu)
    * [3D unity game](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html?org=psu.edu)
    * [Programming for games](https://www.lynda.com/Unity-3D-tutorials/Advanced-Unity-3D-Game-Programming/160270-2.html?org=psu.edu)
+   * [Physical computing examples](https://sunnie-sva-physicalcomputing.tumblr.com/)
 
 ### Proof of concept
 
-The goal of a proof is to demonstrate that you can operate the necessary software and show that you have a strong grasp of relevant production principles.
+The goal of a proof is to demonstrate that you can operate the necessary software, create needed assets, and show that you have a strong grasp of relevant production principles.
 
 Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows.
 
