@@ -42,6 +42,7 @@ The following must be included in the proposal: \(Download: [MS Word template](/
      * Explain how you will you get up to speed in time.
 8. **Timeline**
    * List all steps anticipated in the production of the project and assign them to a due date. The timeline can be graphic in nature so long as it is readable.
+   * Ensure the timeline is feasible.
 9. **Research**
    * What areas of research do you intend to pursue during the production of this project?
      * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    

@@ -1,7 +1,7 @@
-# Capstone project progress reports
+# Capstone project production reports
 
 
-In this project review, you will:
+In this project report, you will:
 
 1. Submit a progress report presentation to Canvas
 2. Schedule time with instructor to discuss: 
