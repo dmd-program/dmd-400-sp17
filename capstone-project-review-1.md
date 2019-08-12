@@ -9,8 +9,8 @@ In this project report, you will:
 ## Progress report presentation requirements
 
 1. Include a summary of any meetings you held with your project advisor.
-1. Overview of production progress
-2. Links to project materials hosted outside of Canvas. 
+2. Overview of production progress
+3. Links to project materials hosted outside of Canvas. 
    1. Materials can include images, video, code snippets, links to web pages, blog posts, etc.
 
 ## Grading Rubric
