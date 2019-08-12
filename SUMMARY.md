@@ -1,6 +1,7 @@
 # Summary
 
 * [About](README.md)
+* [Introduction](introduction.md)
 * [Instructor](instructor.md)
 * [Course objectives](course-objectives.md)
 * [Schedule](schedule.md)
@@ -25,5 +26,4 @@
   * [Video production](audiovideo.md)
   * [Art or design intervention](installation-art-or-design-intervention.md)
 * [License](license.md)
-* [Introduction](introduction.md)
 
