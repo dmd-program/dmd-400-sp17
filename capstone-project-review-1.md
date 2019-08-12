@@ -1,22 +1,28 @@
 # Capstone project production reports
 
+A production report is a comprehensive update about what progress has been made. A report can consist of any visual or text description and may include screenshot images, photographs of prototypes, video of working functionality, code snippets, production artwork, concept maps, research findings, work inspiration, storyboards and scripts, etc.
 
-In this project report, you will:
+## Production blog
 
-1. Submit a progress report presentation to Canvas
-2. Schedule time with instructor to discuss: 
+All reports should be published on the production blog by the due dates indicated on the project schedule. The production blog can be hosted anywhere. If you already have a blog created, you may use your existing blog to track progress for this project.
 
-## Progress report presentation requirements
+Hosted blog choices include:
 
-1. Include a summary of any meetings you held with your project advisor.
-2. Overview of production progress
-3. Links to project materials hosted outside of Canvas. 
-   1. Materials can include images, video, code snippets, links to web pages, blog posts, etc.
+- [sites.psu.edu](https://sites.psu.edu)
+- [Github Pages](https://pages.github.com/)
+- [Medium.com](http://medium.com)
+- [Adobe Spark](https://spark.adobe.com/)
+- [Wix](https://www.wix.com/)
+- [WordPress.com](http://wordpress.com)
+- [Blogger](https://www.blogger.com)
+- [Tumblr](https://www.tumblr.com/)
+- [Squarespace](http://squarespace.com)
+- [Weebly](https://www.weebly.com/)
 
 ## Grading Rubric
 
 This assignment is pass/fail.
 
-**Passing:** In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 120-150 hours of work including work unrelated to capstone project production.
+**Passing:** In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 100-130 hours of work.
 
 **Failing:** A failing mark indicates that you have not achieved confidence from the capstone course instructor that you will be able to complete the capstone project in the current pace of progress. If you have three failing progress reports, you will be asked to withdraw or drop from the capstone course. If you are unable to complete the project to the level indicated in your project proposal, your project will be assessed as incomplete, and you will have to retake the course.
