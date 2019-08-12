@@ -45,38 +45,41 @@ The exhibition card image will be displayed on the exhibition projects index pag
 * Keep text to a minimum.
 * Do not include the name of the project unless it is part of a logo or branding
 
-**File naming:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
+**File name:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
 
 #### Gallery images
 
 Gallery images are shown on your project's profile page. Try to include between 3 to 12 images.
 
-**File naming:**
+**File name:**
 
-1. `\[last-name\]\[first-name\]-gallery-image-**01**.jpg`
-2. `\[last-name\]\[first-name\]-gallery-image-**02**.jpg`
-3. `\[last-name\]\[first-name\]-gallery-image-**03**.jpg`
-4. ...
+1. `[last-name][first-name]-gallery-image-01.jpg`
+2. `[last-name][first-name]-gallery-image-02.jpg`
+3. `[last-name][first-name]-gallery-image-03.jpg`
+4. `[last-name][first-name]-gallery-image-##.jpg`
 
 
 #### Video files
 
-In general, animations should be 24 frames per second. Video files also require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
+Video files require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
 
-**Example poster image name:** `\[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg`
+**Example poster image name:** `[last-name][first-name]-video-poster-01-1080x1920.jpg`
 
-**Example video file name:** `\[last-name\]\[first-name\]-video-01-1080x1920.mp4`
+**Example video file name:** `[last-name][first-name]-video-01-1080x1920.mp4`
 
-### Interactive element
-If you are using an embedded interactive element, please include the embed code in a `.txt` file.
+#### Interactive elements
 
-**File name:** `\[last-name\]\[first-name\]-embed-01-1200x600.txt`
+If you are using an embedded interactive element, please include the embed code in a `.txt` file. If your interactive elements require many files to operate, please include a zip file of those files.
 
-### Audio
+**File name:**
 
-**Template file:** `\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg`
+`[last-name][first-name]-embed-01.txt` **or** `[last-name][first-name]-files-01.zip`
 
-**File name:** `\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg`
+#### Audio
+
+Convert audio files to mp3 so they may be playable from a web browser.
+
+**Example audio files:** `[last-name][first-name]-audio.mp3`
   
 ## Submission details
 
