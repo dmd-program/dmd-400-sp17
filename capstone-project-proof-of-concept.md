@@ -4,3 +4,7 @@ A proof of concept is a small demonstration of a skill or capability that is ind
 
 The proof itself depends on the type of project and media being used. However, there are standard ways of showing competency in a given craft. See recommendations for project proofs on the _**project categories**_ pages.
 
+## Submission details
+
+Submit your proof of concept by the due dates indicated on Canvas.
+
