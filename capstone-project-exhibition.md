@@ -32,7 +32,7 @@ The exhibition website uses a site generator, and is sensitive to file names. Pl
 
 ### Instructions:
 
-**Download:** Media template files (xxMB)
+**Download:** [Media template files (5.9MB)](//assets/media-templates.zip)
 
 Unless you are using a pseudonym, replace **[last-name]** in the file with your last name and **[first-name]** with your first name.
 
@@ -43,7 +43,7 @@ If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-n
 The exhibition card image will be displayed on the exhibition projects index page card, along with other student's work. The project name and student name will be displayed under the card image.
 
 * Keep text to a minimum.
-* Do not include the name of the project unless it is part of a logo or branding
+* Do not include the name of the project unless it is part of a logo or branding.
 
 **File name:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
 
@@ -63,13 +63,13 @@ Gallery images are shown on your project's profile page. Try to include between 
 
 Video files require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
 
-**Example poster image name:** `[last-name][first-name]-video-poster-01-1080x1920.jpg`
+**Example poster image name:** `[last-name][first-name]-video-poster-01.jpg`
 
-**Example video file name:** `[last-name][first-name]-video-01-1080x1920.mp4`
+**Example video file name:** `[last-name][first-name]-video-01.mp4`
 
 #### Interactive elements
 
-If you are using an embedded interactive element, please include the embed code in a `.txt` file. If your interactive elements require many files to operate, please include a zip file of those files.
+If you are using an embedded interactive element, please include the embed code in a `.txt` file. If your interactive elements require many files to operate, please include a `.zip` file of those files.
 
 **File name:**
 
@@ -77,13 +77,13 @@ If you are using an embedded interactive element, please include the embed code 
 
 #### Audio
 
-Convert audio files to mp3 so they may be playable from a web browser.
+Convert audio files to `.mp3` so they may be playable from a web browser.
 
 **Example audio files:** `[last-name][first-name]-audio.mp3`
   
 ## Submission details
 
-1. Submit the final project media to Canvas by the indicated date. Download the templates ZIP.
+1. Submit the final project media to Canvas by the indicated date in a `.zip` file.
 2. Submit the exhibition information form below by the indicated date on Canvas. If the form is not visible, please contact your instructor.
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrK9itvDXkCShJg4?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2643" style="background: transparent; border: 1px solid #ccc;"></iframe>
