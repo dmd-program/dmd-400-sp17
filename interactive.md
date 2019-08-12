@@ -70,5 +70,5 @@
 
 The goal of a proof is to demonstrate that you can operate the necessary software, create needed assets, and show that you have a strong grasp of relevant production principles.
 
-Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows.
+Produce a basic example of a realtime project in your chosen software production pipeline that demonstrates you are capable of manipulating digital assets and code. This should be an exported runtime application compatible with Mac OS or Windows, or video documentation of a functional device.
 
