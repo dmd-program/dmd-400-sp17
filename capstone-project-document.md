@@ -24,16 +24,20 @@ Develop a project document should be able to give readers a clear understanding 
    * Who are notable people, companies or institutions for your chosen project field?
    * What are the historical and contemporary issues related to the field in question?
    * What are some related projects, events, objects, works of art or design that inspired your capstone work?
-   * Include citations according to bibliography format used (APA, MLA)
+   * Include citations according to bibliography format used \(APA, MLA\)
 8. **Production**
    * Production requirements will vary between projects. Outline your process here and include any images or documentation that might be helpful to communicate it.
 9. **Conclusion**
-  * Summarize the results of the capstone project.
+   * Summarize the results of the capstone project.
 10. **Bibliography**
-    * APA or MLA format is accepted.
-    * Consistency is most important.
+    * List research materials that support the project with associated citations throughout the document.
+    * Choose either APA or MLA format. Be consistent throughout the document.
 11. **Image credits** \(optional\)
 12. **Appendix** \(optional\)
+
+### Submission details
+
+1. Did you export the document into PDF format? If so, upload the document to Canvas by the indicated deadline.
 
 
 
