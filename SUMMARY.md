@@ -17,7 +17,7 @@
   * [5. Project statement](capstone-project-statement.md)
   * [6. Project document](capstone-project-document.md)
   * [7. Capstone project exhibition](capstone-project-exhibition.md)
-* [Project categories](project-production-requirements.md)
+* [Project categories](project-categories.md)
   * [Animation](animation.md)
   * [Realtime and interactive](interactive.md)
   * [Product, service, UI/UX](product-or-service.md)
