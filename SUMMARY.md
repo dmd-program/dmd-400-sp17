@@ -5,7 +5,6 @@
 * [Instructor](instructor.md)
 * [Schedule](schedule.md)
 * [Assessment](assessment.md)
-* [Design research](design-research.md)
 * [Resources](resources.md)
 * [Concept development](concept-development.md)
 * [Capstone project](capstone-project.md)
