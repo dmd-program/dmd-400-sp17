@@ -28,7 +28,7 @@ Develop a project document should be able to give readers a clear understanding 
 8. **Production**
    * Production requirements will vary between projects. Outline your process here and include any images or documentation that might be helpful to communicate it.
 9. **Conclusion**
-   * Summarize the results of the capstone project.
+   * Summarize the results of the capstone project. 
 10. **Bibliography**
     * List research materials that support the project with associated citations throughout the document.
     * Choose either APA or MLA format. Be consistent throughout the document.

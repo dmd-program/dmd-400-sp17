@@ -1,10 +1,9 @@
 # Summary
 
-* [Introduction](README.md)
+* [About](README.md)
 * [Instructor](instructor.md)
 * [Course objectives](course-objectives.md)
 * [Schedule](schedule.md)
-* [Exhibition](public-online-exhibition.md)
 * [Assessment](assessment.md)
 * [Design research](design-research.md)
 * [Resources](resources.md)
@@ -25,4 +24,5 @@
   * [2D / 3D design and illustration](2D-or-3D-design-illustration.md)
   * [Video production](audiovideo.md)
   * [Art or design intervention](installation-art-or-design-intervention.md)
+* [License](license.md)
 

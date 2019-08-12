@@ -49,7 +49,7 @@ The exhibition card image will be displayed on the exhibition projects index pag
 
 #### Gallery images
 
-Gallery images are shown on your project's profile page. Try to include between 3 to 12 images.
+Gallery images are shown on your project's profile page. Try to include between 3 to 12 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 1200px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
 
 **File name:**
 
