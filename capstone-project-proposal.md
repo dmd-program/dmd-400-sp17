@@ -47,22 +47,17 @@ The following must be included in the proposal: \(Download: [MS Word template](/
 9. **Research**
    * What areas of research do you intend to pursue during the production of this project?
      * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
-     * What research resources available to you?
+   * What research resources available to you?
 10. **Questions for your proposal reviewers**
-    * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
+   * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
 
 ## Submission details
 
-1. The proposal will consist of two main deliverables.
+Does the proposal include all specified sections? Are all sections thoughtfully considered and fully developed? Is this proposal free from spelling and grammar errors? If so, submit the following:
 
-   1. A PDF exported document
-   2. A recorded zoom video presentation.
+1. A PDF exported document
 
-## Grading rubric
 
-1. Does the proposal include all specified sections?
-2. Are all sections thoughtfully considered and fully developed?
-3. Is this proposal free from spelling and grammar errors?
 
 
 
