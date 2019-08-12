@@ -3,7 +3,6 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Instructor](instructor.md)
-* [Course objectives](course-objectives.md)
 * [Schedule](schedule.md)
 * [Assessment](assessment.md)
 * [Design research](design-research.md)

@@ -1,8 +1,10 @@
-# Assessment:
+# Assessment
 
-DMD 300 is designed to prepare students to have success in this course and to meet the expectations work quality, writing quality, and presentation quality. It is up the student to "show up" for work so to speak. Students will be given a go/no-go assessment in DMD 300 at the end of the semester, indicating if the instructor thinks the student is ready to tackle a capstone project. Ideally, students will not pass DMD 300 if they are not ready for the capstone, but they may narrowly pass the course due to the realities of Penn State's grading requirements. A student who passes DMD 300, but isn't ready to undertake a capstone project, may be contacted about taking time to build more mastery for DMD 400. Students should seriously consider taking other courses to help improve in the identified areas for improvement before enrolling in DMD 400 capstone experience.
+Students in DMD400 are assessed on their ability to synthesize a feasible design project, produce deliverables on time, and engage with a design process they outlined for the project.
 
-To pass the course, students must meet the capstone requirements. Students must **repeat** the course if:
+To pass the course, students must meet the capstone requirements indicated in the capstone project section.
+
+Students will be asked to **repeat** the course if:
 
 - Student fails to produce an adequate project proposal by the deadline.
 - Student does not check-in with mentors by deadlines
