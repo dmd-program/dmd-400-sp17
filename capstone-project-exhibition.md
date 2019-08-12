@@ -26,11 +26,61 @@ The online exhibition format is not a new, but is a wonderful opportunity to pub
 
 ## Media
 
-You can submit
+When you have finished your project, you will need to submit media files for display on the exhibition website. Media files will vary from project to project, however, it is typical to have gallery images to highlight your project.
 
+The exhibition website uses a site generator, and is sensitive to file names. Please use the exact filename structures listed for each item below.
+
+### Instructions:
+
+**Download:** Media template files (xxMB)
+
+Unless you are using a pseudonym, replace **[last-name]** in the file with your last name and **[first-name]** with your first name.
+
+If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-name\]**.
+
+#### Exhibition card image (required)
+
+**Template file:** _\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg_
+
+**File name:** _\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg_
+
+#### Gallery images
+
+Gallery images are shown on your project's profile page. Try to include between 
+
+**Template file:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+
+**File name:** \[last-name\]\[first-name\]-gallery-image-01-1200x600.jpg
+
+
+#### Video files
+
+In general, animations should be 24 frames per second. Video files also require a 
+
+**Template file:** \[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg
+
+**Example poster image name:** _\[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg_
+
+**Example video file name:** _\[last-name\]\[first-name\]-video-01-1080x1920.mp4_
+
+
+
+### Interactive element
+If you are using an embedded interactive element, please paste the embed code here.
+
+**File name:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+
+### Audio
+
+**Template file:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+
+**File name:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+
+
+  
 ## Submission details
 
-1. Submit the final project media to Canvas by the indicated date.
+1. Submit the final project media to Canvas by the indicated date. Download the templates ZIP.
 2. Submit the exhibition information form below by the indicated date on Canvas. If the form is not visible, please contact your instructor.
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrK9itvDXkCShJg4?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2643" style="background: transparent; border: 1px solid #ccc;"></iframe>
