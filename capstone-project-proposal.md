@@ -15,7 +15,7 @@ The following must be included in the proposal: \(Download: [MS Word template](/
    * List existing digital media skills and other relevant skills.
    * List any skills you hope to obtain during this project.
 3. **Concept**
-   * Concise description of the project ideas, both functional and aesthetic.
+   * Concise description of the project ideas.
    * What design methods will be used?
    * What production tools will be used?
    * What topics and theory need to be researched?
@@ -27,6 +27,7 @@ The following must be included in the proposal: \(Download: [MS Word template](/
    * Background or qualifications for advisor, mentor or client
 5. **Production scope**
    * What are the deliverables to be completed or produced? \(IE - storyboards, interviews, web application, website, wireframes, animatics, character designs, scripts, game executable, video, etc.\)
+   * What is the culmination of the production? (EG - Animated video, interactive app prototype, video documentation of an installation, etc.) 
 6. **Production pipeline**
    * What tools will be used?
    * What design processes and methods will be used?
