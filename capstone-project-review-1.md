@@ -4,7 +4,7 @@ A production report is a comprehensive update about what progress has been made.
 
 ## Production blog
 
-All reports should be published on the production blog by the due dates indicated on the project schedule. The production blog can be hosted anywhere. If you already have a blog created, you may use your existing blog to track progress for this project.
+The production blog can be hosted anywhere. If you already have a blog created, you may use your existing blog to track progress for this project.
 
 Hosted blog choices include:
 
@@ -18,6 +18,11 @@ Hosted blog choices include:
 - [Tumblr](https://www.tumblr.com/)
 - [Squarespace](http://squarespace.com)
 - [Weebly](https://www.weebly.com/)
+
+## Submission details
+
+All reports should be published on the production blog by the due dates indicated on Canvas.
+
 
 ## Grading Rubric
 
