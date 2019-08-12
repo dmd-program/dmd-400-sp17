@@ -40,43 +40,43 @@ If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-n
 
 #### Exhibition card image (required)
 
-**Template file:** _\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg_
+The exhibition card image will be displayed on the exhibition projects index page card, along with other student's work. The project name and student name will be displayed under the card image.
 
-**File name:** _\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg_
+* Keep text to a minimum.
+* Do not include the name of the project unless it is part of a logo or branding
+
+**File naming:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
 
 #### Gallery images
 
-Gallery images are shown on your project's profile page. Try to include between 
+Gallery images are shown on your project's profile page. Try to include between 3 to 12 images.
 
-**Template file:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+**File naming:**
 
-**File name:** \[last-name\]\[first-name\]-gallery-image-01-1200x600.jpg
+1. `\[last-name\]\[first-name\]-gallery-image-**01**.jpg`
+2. `\[last-name\]\[first-name\]-gallery-image-**02**.jpg`
+3. `\[last-name\]\[first-name\]-gallery-image-**03**.jpg`
+4. ...
 
 
 #### Video files
 
-In general, animations should be 24 frames per second. Video files also require a 
+In general, animations should be 24 frames per second. Video files also require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
 
-**Template file:** \[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg
+**Example poster image name:** `\[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg`
 
-**Example poster image name:** _\[last-name\]\[first-name\]-video-poster-01-1080x1920.jpg_
-
-**Example video file name:** _\[last-name\]\[first-name\]-video-01-1080x1920.mp4_
-
-
+**Example video file name:** `\[last-name\]\[first-name\]-video-01-1080x1920.mp4`
 
 ### Interactive element
-If you are using an embedded interactive element, please paste the embed code here.
+If you are using an embedded interactive element, please include the embed code in a `.txt` file.
 
-**File name:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+**File name:** `\[last-name\]\[first-name\]-embed-01-1200x600.txt`
 
 ### Audio
 
-**Template file:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
+**Template file:** `\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg`
 
-**File name:** \[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg
-
-
+**File name:** `\[last-name\]\[first-name\]-exhibition-card-image-1200x600.jpg`
   
 ## Submission details
 
