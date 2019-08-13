@@ -3,7 +3,6 @@
 * [About](README.md)
 * [Introduction](introduction.md)
 * [Instructor](instructor.md)
-* [Schedule](schedule.md)
 * [Assessment](assessment.md)
 * [Concept development](concept-development.md)
 * [Capstone project](capstone-project.md)
