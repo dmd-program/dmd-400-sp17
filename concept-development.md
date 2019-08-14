@@ -18,14 +18,14 @@ Concepts emerge over the course of the project through an ongoing discovery proc
 
 ## How to develop a good concept
 
-Observation and creative thinking methods are helpful for identifying a concept. However, more often than not, everyday observations are enough to spark an idea. It is helpful to keep around a small notebook or store a running list of ideas on a mobile device.
+Creative thinking methods are helpful for identifying a concept. However, more often than not, everyday observations are enough to spark an idea. It is helpful to keep around a small notebook or store a running list of ideas on a mobile device.
 
 **Key features of a good concept:**
 
 1. Feasible to accomplish in the given timeframe
 2. Invention and/or unexpected combinations to produce novelty 
-3. Link to relevant cultural, historical, social contexts
-4. Explore moral and ethical issues or quandaries
+3. Links to relevant cultural, historical, social contexts
+4. Explores moral and ethical issues or quandaries
 5. Aesthetic and theoretical explorations
 
 In DMD 100, students are guided through the entire production of three projects through a careful orchestration of design thinking exercises and a set of rules or criteria that bounded the scope. The rules set in place made it so that the student could concentrate on the content of the project, rather than finding an appropriate scale and bounds for the project. In a capstone project, students are responsible for establishing these rules for themselves, an often difficult task that takes practice to master.
