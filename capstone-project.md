@@ -19,7 +19,7 @@ The capstone project is broken down into the following deliverable categories. S
 
 Each project should demonstrate a minimum of entry-level skills for their chosen field.
 
-1. Define a project proposal \(3 weeks\)
+1. Define a project proposal
    1. Outcomes
    2. Context and impact
    3. Themes
@@ -37,59 +37,14 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 
 ## Types
 
-While project types may overlap, in general, they can be broken down into
+While project types may overlap, in general, they can be broken down into a few types. You can map [project categories](/project-categories.md) to and the following:
 
 * Client-based project
   * This project is based on fulfilling stakeholder needs and requirements.
-* Experimental art or design
-  * This category refers to creative projects that feature aesthetic explorations often based on new or existing theory. 
+* Experimental and experiential art or design
+  * This type refers to creative projects that feature aesthetic explorations often based on new or existing theory and practices. 
+  * Often the purpose of experimental work is to create new knowledge, explore meaning, and phenomenology.
 * Story-driven
   * Story driven projects comprise of fictional or non-fictional stories told through digital narrative media. These stories can be either new or reimagined existing stories.
-* Research and analysis
-
-## Media
-
-* **Animation \(2D, 3D\)**
-  * Short film
-  * Explainer animation
-  * motion graphics \(bumper animations, commercials, titles\)
-  * Experimental
-  * VJ Loops
-  * Projection Mapping
-* **Interactive**
-  * AR/VR
-  * Interactive story
-  * Serious Game
-  * Physical game \(printed boards and/or 3D objects\)
-* **Product or service**
-  * Functional mobile or web app
-  * High fidelity interactive mockups \(UI\)
-  * Speculative or discursive design projects
-  * Comprehensive user experience \(UX\) research
-  * Digital fabrication products or prototypes \(furniture, wearables, clothes, structures, etc.\) 
-* **2D or 3D Illustration, rendering, and graphic visualizations**
-  * Branding and/or print
-    * Logo design
-    * Web design and/or development
-    * Stationary or merchandise design
-  * Typeface design
-  * Illustrations
-    * Comic \(print or web\)
-    * Children's book
-  * Infographics
-  * Architectural renderings
-  * Concept art for pre-production \(character, vehicle, environment design for comics, games, film, etc.\)
-  * Data visualizations
-  * 3D Modelling
-* **Audio/Video Production**
-  * Abstract or performance film
-  * Short-film
-  * Music video
-  * Abstract performance capture
-* **Installation or physical design intervention**
-  * Physical computing and IoT device
-  * Art or design installation proposal
-  * Organize design-based event
-
 
 
