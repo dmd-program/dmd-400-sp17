@@ -10,7 +10,7 @@
   * [2. Project agreement form](capstone-project-agreement-form.md)
   * [3. Project proof of concept](capstone-project-proof-of-concept.md)
   * [4. Project production reports](capstone-project-production-report.md)
-  * [5. Project statement](capstone-project-statement.md)
+  * [5. Project exhibition statement](capstone-project-statement.md)
   * [6. Project document](capstone-project-document.md)
   * [7. Project explainer video](project-explainer-video.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
