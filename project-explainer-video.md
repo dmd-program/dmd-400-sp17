@@ -34,5 +34,4 @@ There are different approaches to documentation video. A typical documentation v
 
 ## Submission details
 
-1. Upload a .zip file to the canvas assignment that includes the video \(Please export/compress this video. It should be less the 500MB in filesize\)
-
+1. Upload an `.mp4` video file to the canvas assignment. Please export/compress this video. It should be less the 500MB in filesize, and encoded using ONLY "H.264". See exporting instructions above.
