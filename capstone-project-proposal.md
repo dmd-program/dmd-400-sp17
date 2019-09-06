@@ -2,7 +2,7 @@
 
 The capstone project proposal is the first step in producing a capstone project for the Digital Multimedia Design degree program. It asks you to think through the entire production process of the upcoming project, and helps you identify what research you'll need to conduct.
 
-The following must be included in the proposal: \(Download: [MS Word template](/assets/dmd400-capstone-project-proposal.docx)\)
+The following must be included in the proposal: \(Download: [MS Word template](/assets/dmd400-capstone-project-proposal.docx) - Right click to save to your computer.\)
 
 1. **Title page**
    1. Project Title
