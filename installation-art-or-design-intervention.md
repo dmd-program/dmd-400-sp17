@@ -4,8 +4,13 @@
 
 * Art or design installation proposal
   * New Media art exhibition
-* Organize and hold a design-based event or festival
+  * [Examples on Vimeo](https://vimeo.com/search?q=art+exhibition)
+* Organize and hold an art or design based event or festival
+  * Design thinking workshop
+  * Community mural painting
+  * Performance art event
 * Curation of an art or design exhibition
+  * Online exhibition of submitted and reviewed works
 
 ## Production requirements
 
