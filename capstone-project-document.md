@@ -16,9 +16,10 @@ Develop a project document should be able to give readers a clear understanding 
    1. The Pennsylvania State University
    2. B.Des in Digital Multimedia Design
 4. **Table of contents**
-5. **Project abstract**
+5. **Project overview**
+   * Describe what your project is, what it's about, how you approached it, and what the outcomes were.
 6. **Concept development**
-   * Describe main issues, themes, and ideas explored during concept development
+   * Describe main issues, themes, and ideas explored during concept development.
    * Include relevant images, quotations, diagrams, figures, etc.
 7. **Research**
    * Who are notable people, companies or institutions for your chosen project field?
