@@ -22,6 +22,7 @@ Develop a project document should be able to give readers a clear understanding 
    * Include relevant images, quotations, diagrams, figures, etc.
 7. **Research**
    * Who are notable people, companies or institutions for your chosen project field?
+   * Are there market forces that impact your project? If so, describe the target market, project stakeholders, and other market related information pertinent to your project.
    * What are the historical and contemporary issues related to the field in question?
    * What are some related projects, events, objects, works of art or design that inspired your capstone work?
    * Include citations according to bibliography format used \(APA, MLA\)
