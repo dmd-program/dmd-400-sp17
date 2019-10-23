@@ -16,6 +16,44 @@ Concepts are directed through a mapping process either before or in the beginnin
 
 Concepts emerge over the course of the project through an ongoing discovery process. A core purpose of inquiry is to discover new knowledge or the possibility of thinking about things in new, innovative ways. To reveal something relies on others experiencing a change of awareness or understanding. Revealing, therefore is not only a method of discovery, but requires multiple ways of communicating to target groups and others.
 
+A project concept is always in support of an overarching theme or purpose. A well developed concept can help the artist or designer to ask questions in novel or provocative ways or to find new approaches to solving problems or eliciting emotional responses. Once you have the concept, all decisions are for the purpose of expressing it as effectively as possible. Depending on your interests, you don't always have to develop the core theme or issue. Design competitions are a good place to start if you are unsure of where to begin:
+
+**UX, product, service and social design:**
+
+* [AIGA Design for Good competition](https://www.aiga.org/design-for-good)
+* [Open IDEO](https://www.openideo.com/)
+* [UX Design Awards](https://ux-design-awards.com/en/)
+* [UX Design Contest](https://uxdesigncontest.com/)
+* [alistofawards.com](https://www.alistofawards.com/best-student-awards-competitions)
+
+**Graphic design and packaging:**
+
+* [Designboom.com](https://www.designboom.com/competitions/all/)
+* [Dexigner.com](https://www.dexigner.com/design-competitions)
+* https://jba_en.submit.to/landing/award
+* https://www.rgd.ca/programs/sogood-awards
+https://type-competition.tdc.org/communication-entrieshttps://www.penguin.co.uk/company/work-with-us/student-design-award/student-design-award.html
+* https://www.thersa.org/action-and-research/rsa-projects/design/student-design-awards
+* https://young-package.com/en/
+
+**Game design:**
+
+* [Wikipedia List](https://en.wikipedia.org/wiki/Category:Video_game_development_competitions)
+* [Games for Change](http://www.gamesforchange.org/studentchallenge/)
+* [Independent Games Festival](http://www.igf.com/submit-your-game)
+* [STEM Challenge](https://stemchallenge.org/)
+* [CHI Play](https://chiplay.acm.org/2019/competition/)
+* [The Game Crafter](https://www.thegamecrafter.com/contests)
+* [Change the Game Design Challenge](https://play.google.com/about/changethegame/designchallenge2019/)
+* [A'Design Award Competition](https://competition.adesignaward.com/competitions/videogame.html)
+* [Board Game Design Lab](http://www.boardgamedesignlab.com/contest/)
+
+Animation
+
+* [Animation World Competition](https://www.awn.com/events/contests)
+* [The Rookies](https://www.therookies.co/contests)
+
+
 ## How to develop a good concept
 
 Creative thinking methods are helpful for identifying a concept. However, more often than not, everyday observations are enough to spark an idea. It is helpful to keep around a small notebook or store a running list of ideas on a mobile device.
