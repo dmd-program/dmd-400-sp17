@@ -48,7 +48,7 @@ https://type-competition.tdc.org/communication-entrieshttps://www.penguin.co.uk/
 * [A'Design Award Competition](https://competition.adesignaward.com/competitions/videogame.html)
 * [Board Game Design Lab](http://www.boardgamedesignlab.com/contest/)
 
-Animation
+**Animation**
 
 * [Animation World Competition](https://www.awn.com/events/contests)
 * [The Rookies](https://www.therookies.co/contests)
