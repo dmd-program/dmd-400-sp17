@@ -26,6 +26,11 @@ There are a few ways to approach a project design project. To participate in a r
      * Themes and insights
      * Prototyping
      * Other design thinking and design research methods that inform the design
+   * Data collection
+     * [Qualtrics](https://pennstate.qualtrics.com) \(Free for PSU Students\)
+     * [Survey Monkey](https://www.surveymonkey.com/)
+     * [Amazon Mechanical Turk](https://www.mturk.com/)
+     * [UsabilityHub](https://usabilityhub.com)
 2. Prototyping and production
    * CAD modeling
      * [Rhino3D](https://www.rhino3d.com/) \(recommended\)
