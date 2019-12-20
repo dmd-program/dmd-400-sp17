@@ -29,8 +29,6 @@ There are a few ways to approach a project design project. To participate in a r
    * Data collection
      * [Qualtrics](https://pennstate.qualtrics.com) \(Free for PSU Students\)
      * [Survey Monkey](https://www.surveymonkey.com/)
-     * [Amazon Mechanical Turk](https://www.mturk.com/)
-     * [UsabilityHub](https://usabilityhub.com)
 2. Prototyping and production
    * CAD modeling
      * [Rhino3D](https://www.rhino3d.com/) \(recommended\)
@@ -52,8 +50,12 @@ There are a few ways to approach a project design project. To participate in a r
      * "App" tools and technology: [VS Code](https://code.visualstudio.com/), [Github](http://github.com), [CodeSandbox.io](https://codesandbox.io/dashboard/recent)
      * **Everything list:** [Extensive list of web tools and technology](https://free-for.dev/)
 3. Testing and analysis
+   * Data collection
+     * [Qualtrics](https://pennstate.qualtrics.com) \(Free for PSU Students\)
+     * [Survey Monkey](https://www.surveymonkey.com/)
+     * [Amazon Mechanical Turk](https://www.mturk.com/)
    * User testing
-   * Performance testing
+     * [UsabilityHub](https://usabilityhub.com)
 
 ### Proof of concept
 
